@@ -26,3 +26,4 @@ jobs:
       - run: bundle exec ruby test/staging_access_test.rb
       - run: bundle exec ruby test/smoke_test.rb
 
+      - run: bundle exec ruby test/replica_test.rb

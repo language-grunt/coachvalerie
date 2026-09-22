@@ -1,0 +1,906 @@
+{
+  "source": "www.coachvalerie.com archived 2026-09-19",
+  "pages": 42,
+  "aliases": 20,
+  "downloaded_assets": [
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2147490257/images/8146cd5-2725-36d-d3ef-4d8a635cadbc_a990a3d9-e564-4b65-b934-b25f2783797b.png?v=2",
+      "file": "/replica-assets/cc3947782ae3b0dac2768848.png",
+      "bytes": 347
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf",
+      "file": "/replica-assets/bc0d8aa5a966e752526bd9d2.ttf",
+      "bytes": 48904
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf",
+      "file": "/replica-assets/2415b88c98a5a89809b89683.ttf",
+      "bytes": 48940
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf",
+      "file": "/replica-assets/f9f931d4cae3168c60c78f0d.ttf",
+      "bytes": 48532
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf",
+      "file": "/replica-assets/b2dd8af98829026aabcba3e5.ttf",
+      "bytes": 48520
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700,400italic,700italic&display=swap",
+      "file": "/replica-assets/1ab1929b981a88dcf19d89e7.css",
+      "bytes": 748
+    },
+    {
+      "url": "https://kajabi-app-assets.kajabi-cdn.com/assets/core-bd7b26fa88233b0deec176501f76275fcd62a9785b79309a9e2b92fe02ba1903.css",
+      "file": "/replica-assets/6a6cd80b5cf51ef6a8593bcb.css",
+      "bytes": 1617
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.eot",
+      "file": "/replica-assets/17a84aad2d59a4c8a1cc85ef.eot",
+      "bytes": 136822
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.eot#iefix",
+      "file": "/replica-assets/fc41f972bb270683dfd575b1.eot",
+      "bytes": 136822
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.woff2",
+      "file": "/replica-assets/25e68f2d44d9cf2c0f4893a6.woff2",
+      "bytes": 78472
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.woff",
+      "file": "/replica-assets/493204ca0b090dcb643b0e52.woff",
+      "bytes": 92136
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.ttf",
+      "file": "/replica-assets/2a231d3f6d04d77b0621d85c.ttf",
+      "bytes": 136516
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.svg#fontawesome",
+      "file": "/replica-assets/4dbc881aafb448e69618e539.svg",
+      "bytes": 747545
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.eot",
+      "file": "/replica-assets/ebfa0525cb0d3fe54f8d65cf.eot",
+      "bytes": 34350
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.eot#iefix",
+      "file": "/replica-assets/53cac1dd857fcc0e5e0add5d.eot",
+      "bytes": 34350
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.woff2",
+      "file": "/replica-assets/5170c769af5d5ffc06a22c55.woff2",
+      "bytes": 13588
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.woff",
+      "file": "/replica-assets/a5839fe22b761e6c8e177650.woff",
+      "bytes": 16776
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.ttf",
+      "file": "/replica-assets/40b5114d25013fa0adc7f2fd.ttf",
+      "bytes": 34052
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.svg#fontawesome",
+      "file": "/replica-assets/7e426365b114d42da2e91e25.svg",
+      "bytes": 144714
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.eot",
+      "file": "/replica-assets/7ceb02c9722582127ed9298b.eot",
+      "bytes": 204814
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.eot#iefix",
+      "file": "/replica-assets/1dedcfaef5673060cf663a7a.eot",
+      "bytes": 204814
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.woff2",
+      "file": "/replica-assets/7f8bc2e788f667db000f6282.woff2",
+      "bytes": 80252
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.woff",
+      "file": "/replica-assets/1850d44482416309dfc071d2.woff",
+      "bytes": 104280
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.ttf",
+      "file": "/replica-assets/6a45c9654e1ebe840ec31db0.ttf",
+      "bytes": 204528
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.svg#fontawesome",
+      "file": "/replica-assets/73db48326389242cc5ec2e25.svg",
+      "bytes": 917575
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.2/css/all.css",
+      "file": "/replica-assets/f8a610ece3454be468644725.css",
+      "bytes": 59593
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156987732/assets/styles.css?1712337787036221",
+      "file": "/replica-assets/36cbbf81cd8776ef833df898.css",
+      "bytes": 115884
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156987732/assets/overrides.css?1712337787036221",
+      "file": "/replica-assets/826db876dd8bc491be380282.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2147490257/images/8146cd5-2725-36d-d3ef-4d8a635cadbc_a990a3d9-e564-4b65-b934-b25f2783797b.png",
+      "file": "/replica-assets/16c24ed9234b3d3fed8a5195.png",
+      "bytes": 347
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf",
+      "file": "/replica-assets/669f941654e04a23be810e89.ttf",
+      "bytes": 36376
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf",
+      "file": "/replica-assets/a624ce6774cfe835f241a4e5.ttf",
+      "bytes": 36368
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf",
+      "file": "/replica-assets/650dac2664ae60a7d48bdd17.ttf",
+      "bytes": 35316
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf",
+      "file": "/replica-assets/22d43f06832a07ed16aa836d.ttf",
+      "bytes": 35292
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic|Montserrat:400,700,400italic,700italic&display=swap",
+      "file": "/replica-assets/7040f1f254b1d8565ae9d001.css",
+      "bytes": 1588
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156987854/assets/styles.css?1712341395699782",
+      "file": "/replica-assets/2888ed85106295b959fa5572.css",
+      "bytes": 115878
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156987854/assets/overrides.css?1712341395699782",
+      "file": "/replica-assets/29d78ea6d76b7c8c110f8c5e.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156988045/assets/styles.css?1732505054859144",
+      "file": "/replica-assets/2f83399752ddb580c0d0cb72.css",
+      "bytes": 115878
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156988045/assets/overrides.css?1732505054859144",
+      "file": "/replica-assets/2a4fcfbc5d6ffc86062ad421.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7e8QL99U60.ttf",
+      "file": "/replica-assets/2ef083aa77740c1d492309d7.ttf",
+      "bytes": 54776
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7dbR799U60.ttf",
+      "file": "/replica-assets/b976f4417a3eb7d513d6dfed.ttf",
+      "bytes": 55168
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI96.ttf",
+      "file": "/replica-assets/aa1407744725aea146972919.ttf",
+      "bytes": 54324
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ebgaramond/v33/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-DPNkBI96.ttf",
+      "file": "/replica-assets/750636acddb6c1724ba76e6f.ttf",
+      "bytes": 54544
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700,400italic,700italic|EB+Garamond:400,700,400italic,700italic&display=swap",
+      "file": "/replica-assets/1e36f5d71765e2a9cfc3921d.css",
+      "bytes": 1500
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156620999/assets/styles.css?1709581195186836",
+      "file": "/replica-assets/97e352a2bc104e29c2d6bf59.css",
+      "bytes": 115890
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156620999/assets/overrides.css?1709581195186836",
+      "file": "/replica-assets/63ca9ee3067e412799501fc1.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156987975/assets/styles.css?17122680574246342",
+      "file": "/replica-assets/faecd52d9374e92ea65035d9.css",
+      "bytes": 115880
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156987975/assets/overrides.css?17122680574246342",
+      "file": "/replica-assets/cfb7a56d9cff2de83dda1b8f.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156988187/assets/styles.css?17325049672173061",
+      "file": "/replica-assets/23ced1fe53b1b4108b136d8a.css",
+      "bytes": 115884
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156988187/assets/overrides.css?17325049672173061",
+      "file": "/replica-assets/9317058a77c0546fa8ced976.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635082/assets/styles.css?1712341455158299",
+      "file": "/replica-assets/2ce0aea0c6461b0df30549aa.css",
+      "bytes": 115890
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635082/assets/overrides.css?1712341455158299",
+      "file": "/replica-assets/3c0483ea43a09df888d2ce37.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156621387/assets/styles.css?1709581140195621",
+      "file": "/replica-assets/c9d055e7c509b1232b9e589c.css",
+      "bytes": 115890
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156621387/assets/overrides.css?1709581140195621",
+      "file": "/replica-assets/b0984a92eabdbed9ed54c06a.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700,400italic,700italic|EB+Garamond:400,700,400italic,700italic",
+      "file": "/replica-assets/0b21289e446cd3e963520074.css",
+      "bytes": 1324
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot",
+      "file": "/replica-assets/a1c896922f122d4fb160be93.eot",
+      "bytes": 129916
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot#iefix",
+      "file": "/replica-assets/862f8326978fb127b13087e7.eot",
+      "bytes": 129916
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff2",
+      "file": "/replica-assets/efc48c65d23c7ba13e87854b.woff2",
+      "bytes": 74768
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff",
+      "file": "/replica-assets/435e14b730a3ba3dfb697430.woff",
+      "bytes": 87688
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.ttf",
+      "file": "/replica-assets/45898b05e8649c3210080984.ttf",
+      "bytes": 129612
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.svg#fontawesome",
+      "file": "/replica-assets/70b8bdee999750987379d796.svg",
+      "bytes": 694583
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot",
+      "file": "/replica-assets/293316fefbd07e5ef3f9fc63.eot",
+      "bytes": 34388
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot#iefix",
+      "file": "/replica-assets/6e6617188e4da86d487e37c4.eot",
+      "bytes": 34388
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff2",
+      "file": "/replica-assets/17a7ff4f5798421a1d1b529e.woff2",
+      "bytes": 13552
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff",
+      "file": "/replica-assets/a557d86f9b06f1e2d11ddeef.woff",
+      "bytes": 16804
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.ttf",
+      "file": "/replica-assets/420a2294c82a04bf91cf013b.ttf",
+      "bytes": 34092
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.svg#fontawesome",
+      "file": "/replica-assets/70d4868c9128bd1db043da4a.svg",
+      "bytes": 144451
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot",
+      "file": "/replica-assets/da480c83227031838e855c35.eot",
+      "bytes": 186728
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot#iefix",
+      "file": "/replica-assets/15a1118c995beb9afb06cabc.eot",
+      "bytes": 186728
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff2",
+      "file": "/replica-assets/34426809ef6716ddcca1b10f.woff2",
+      "bytes": 74256
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff",
+      "file": "/replica-assets/dfd50dc4776ab99283f4fdfd.woff",
+      "bytes": 96256
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.ttf",
+      "file": "/replica-assets/61fe00b81a352f7ccb97600d.ttf",
+      "bytes": 186444
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.svg#fontawesome",
+      "file": "/replica-assets/41e933c503512ca92e2f3c9d.svg",
+      "bytes": 816926
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.8.1/css/all.css",
+      "file": "/replica-assets/23a0a8d29f0b3ec36cbd2040.css",
+      "bytes": 55360
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156546835/assets/styles.css?1711994730262656",
+      "file": "/replica-assets/5a4b2f8a0dd260cf134046c2.css",
+      "bytes": 95568
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156546835/assets/overrides.css?1711994730262656",
+      "file": "/replica-assets/b743ca597729ead752e5e11a.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156437698/assets/styles.css?1711994520163595",
+      "file": "/replica-assets/1bea0276005be84ddbeb715c.css",
+      "bytes": 95568
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156437698/assets/overrides.css?1711994520163595",
+      "file": "/replica-assets/01949e2128b39e56b5ef6cd6.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156996740/assets/styles.css?1712342748028495",
+      "file": "/replica-assets/3ba06e68f18d9d7a03119d0f.css",
+      "bytes": 115886
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156996740/assets/overrides.css?1712342748028495",
+      "file": "/replica-assets/4991577ca068c6b07287a96d.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156996532/assets/styles.css?17123424815113459",
+      "file": "/replica-assets/ce823e2eaf0d79da00bb0036.css",
+      "bytes": 115886
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156996532/assets/overrides.css?17123424815113459",
+      "file": "/replica-assets/5016e70be3f06f7ee6155ca1.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156996842/assets/styles.css?17123387307536519",
+      "file": "/replica-assets/beeae2251928109df37aaf4e.css",
+      "bytes": 115886
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156996842/assets/overrides.css?17123387307536519",
+      "file": "/replica-assets/f60ca13d3fc9819e79834f52.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635108/assets/styles.css?1732506108471461",
+      "file": "/replica-assets/65656fb22e4ba3f14ddc0de6.css",
+      "bytes": 128073
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635108/assets/overrides.css?1732506108471461",
+      "file": "/replica-assets/b6568cab749585bb10ad2507.css",
+      "bytes": 20
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635474/assets/styles.css?171234262170319",
+      "file": "/replica-assets/967d76416fd99f035951567c.css",
+      "bytes": 128073
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635474/assets/overrides.css?171234262170319",
+      "file": "/replica-assets/d278bb25c52d37af6c229232.css",
+      "bytes": 20
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635635/assets/styles.css?1709581109177249",
+      "file": "/replica-assets/d49c429cf2e6ce88a3c4ce47.css",
+      "bytes": 128073
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635635/assets/overrides.css?1709581109177249",
+      "file": "/replica-assets/d64efc1887e7d7e0b3032746.css",
+      "bytes": 20
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635072/assets/styles.css?1712341071273026",
+      "file": "/replica-assets/46b09baa84ae2003e4c08466.css",
+      "bytes": 128073
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635072/assets/overrides.css?1712341071273026",
+      "file": "/replica-assets/f89e6b8675faa459cb9e701f.css",
+      "bytes": 20
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635851/assets/styles.css?1741635034385395",
+      "file": "/replica-assets/8fea3bfe47f99a23825ce458.css",
+      "bytes": 128073
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635851/assets/overrides.css?1741635034385395",
+      "file": "/replica-assets/8d5b2db9216d8b4f436911a6.css",
+      "bytes": 20
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155773661/assets/styles.css?1719007667390893",
+      "file": "/replica-assets/5e5dfc1df0ec75d223bf6252.css",
+      "bytes": 115812
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155773661/assets/overrides.css?1719007667390893",
+      "file": "/replica-assets/2ab0e611334c7ed3b6ce4fe0.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/firasans/v18/va9C4kDNxMZdWfMOD5VvkrjJYTc.ttf",
+      "file": "/replica-assets/954f011785a5e00460071acd.ttf",
+      "bytes": 62948
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/firasans/v18/va9f4kDNxMZdWfMOD5VvkrByRCf4VFw.ttf",
+      "file": "/replica-assets/b8e73d4565eb8bb00a48648c.ttf",
+      "bytes": 67820
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/firasans/v18/va9E4kDNxMZdWfMOD5Vvl4jO.ttf",
+      "file": "/replica-assets/0a8f8cd53f60f332daff232c.ttf",
+      "bytes": 61704
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/firasans/v18/va9B4kDNxMZdWfMOD5VnLK3eRhf_.ttf",
+      "file": "/replica-assets/e2900089deca6e7bedcdf1d0.ttf",
+      "bytes": 66708
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic|Fira+Sans:400,700,400italic,700italic&display=swap",
+      "file": "/replica-assets/fcbd7f35c03d287cf5bebb89.css",
+      "bytes": 1584
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155773866/assets/styles.css?17095813145361972",
+      "file": "/replica-assets/a36d27779dc5192163439114.css",
+      "bytes": 115794
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155773866/assets/overrides.css?17095813145361972",
+      "file": "/replica-assets/26b2f02d2bbc02ebffdfcbfb.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156963773/assets/styles.css?1712355099463153",
+      "file": "/replica-assets/b6d7b528f1cf6ac52450150c.css",
+      "bytes": 115892
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156963773/assets/overrides.css?1712355099463153",
+      "file": "/replica-assets/f6feeed235fd691c1e4dd077.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156973669/assets/styles.css?17123379582847989",
+      "file": "/replica-assets/2f383d562cd695ece426fc42.css",
+      "bytes": 115886
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156973669/assets/overrides.css?17123379582847989",
+      "file": "/replica-assets/7f25695c4620532a55d54ccc.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156877812/assets/styles.css?174163415577392",
+      "file": "/replica-assets/839089bb467c0b9b2c5f252c.css",
+      "bytes": 115894
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156877812/assets/overrides.css?174163415577392",
+      "file": "/replica-assets/28607afb8dd6f1804d575ade.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2155024249/settings_images/f8f63ab-2bf3-fe38-d268-c4df35486be_b85e3f3f-ae35-458c-9f93-152d95b84850.png?v=2",
+      "file": "/replica-assets/c152bb30ee29ead36e234d61.png",
+      "bytes": 548
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156971044/assets/styles.css?1712173203414769",
+      "file": "/replica-assets/4e969cd35cbdf4340e833885.css",
+      "bytes": 115685
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156971044/assets/overrides.css?1712173203414769",
+      "file": "/replica-assets/ea9223cb3013522182aba81a.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/lavishlyyours/v7/jizDREVIvGwH5OjiZmX9r5z_WxUY.ttf",
+      "file": "/replica-assets/a6328881f0abdea32c5dc029.ttf",
+      "bytes": 147628
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Lavishly+Yours&display=swap",
+      "file": "/replica-assets/e0f0b646c2f56befa3308ec7.css",
+      "bytes": 191
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2159400765/assets/styles.css?17325092521408482",
+      "file": "/replica-assets/b8123d02375ca7729cad395c.css",
+      "bytes": 115894
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2159400765/assets/overrides.css?17325092521408482",
+      "file": "/replica-assets/586e54cf3fdbc8fb0673d76d.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155586412/assets/styles.css?1732505335989816",
+      "file": "/replica-assets/43ba7feb028ecf8572b4d45c.css",
+      "bytes": 115890
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155586412/assets/overrides.css?1732505335989816",
+      "file": "/replica-assets/e3128d03a57494e1b49a28d4.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155331247/assets/styles.css?1709153598714705",
+      "file": "/replica-assets/d94909af2eade27b38bfec0d.css",
+      "bytes": 115890
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155331247/assets/overrides.css?1709153598714705",
+      "file": "/replica-assets/1bb8a21af38b802c4ffbae1f.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156370012/assets/styles.css?1709581399699779",
+      "file": "/replica-assets/8c0eb20a90d25ccb83b22be4.css",
+      "bytes": 115890
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156370012/assets/overrides.css?1709581399699779",
+      "file": "/replica-assets/d880e98e4a13cb394c4c6047.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155919855/assets/styles.css?1709581170031342",
+      "file": "/replica-assets/e336362c736cdb1133d83f27.css",
+      "bytes": 115890
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155919855/assets/overrides.css?1709581170031342",
+      "file": "/replica-assets/2af9417a38f939f060d29421.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156086521/assets/styles.css?17091535564566789",
+      "file": "/replica-assets/7a71b3e4bed0eea4bce19b77.css",
+      "bytes": 115884
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156086521/assets/overrides.css?17091535564566789",
+      "file": "/replica-assets/ea37fe65e5dd0dc07cfc1ded.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155950663/assets/styles.css?1709581446746229",
+      "file": "/replica-assets/8abc33f6fc71db3c6c09b41b.css",
+      "bytes": 115890
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155950663/assets/overrides.css?1709581446746229",
+      "file": "/replica-assets/e2167314b611a4bfc127ae61.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155958297/assets/styles.css?1709581253893852",
+      "file": "/replica-assets/4f06b9e42a6eb5c687514d14.css",
+      "bytes": 115890
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155958297/assets/overrides.css?1709581253893852",
+      "file": "/replica-assets/230cdcc8cf5bc515fdc90a2c.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156612762/assets/styles.css?17119947697527208",
+      "file": "/replica-assets/f622ec3651b89b19fc00c7a4.css",
+      "bytes": 95568
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156612762/assets/overrides.css?17119947697527208",
+      "file": "/replica-assets/808e74b5616698cf9d3a97d7.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic|Fira+Sans:400,700,400italic,700italic",
+      "file": "/replica-assets/fd1510b09ccb1c9eb2987a48.css",
+      "bytes": 1408
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2159402154/assets/styles.css?1732508014558147",
+      "file": "/replica-assets/412547d76b2df06363e07113.css",
+      "bytes": 95551
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2159402154/assets/overrides.css?1732508014558147",
+      "file": "/replica-assets/8c0129c3a8950ac6ee0bc14e.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2159402155/assets/styles.css?1732508366031063",
+      "file": "/replica-assets/5d5ec904bec3e3cd7460c407.css",
+      "bytes": 95551
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2159402155/assets/overrides.css?1732508366031063",
+      "file": "/replica-assets/571b6b522d7efb313c8b9257.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dancingscript/v29/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf",
+      "file": "/replica-assets/14fa613aef32d8da65024382.ttf",
+      "bytes": 51980
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dancingscript/v29/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i03Sup5.ttf",
+      "file": "/replica-assets/1316eeae9a47065d77792d10.ttf",
+      "bytes": 52220
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700,400italic,700italic|Dancing+Script:400,700,400italic,700italic",
+      "file": "/replica-assets/df8979e0035a434fee1ee928.css",
+      "bytes": 998
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155024249/assets/styles.css?17123432872940469",
+      "file": "/replica-assets/e768218305720e7e846b39c8.css",
+      "bytes": 115703
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155024249/assets/overrides.css?17123432872940469",
+      "file": "/replica-assets/69f68a7638e7e0954da0d22c.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635103/assets/styles.css?1712266735712461",
+      "file": "/replica-assets/ec51f68e0de583c6f3281f86.css",
+      "bytes": 128073
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156635103/assets/overrides.css?1712266735712461",
+      "file": "/replica-assets/33dde997896cd7c0accdc7c5.css",
+      "bytes": 20
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156660758/assets/styles.css?1768268520149927",
+      "file": "/replica-assets/c185143c521d5242654637c5.css",
+      "bytes": 115890
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2156660758/assets/overrides.css?1768268520149927",
+      "file": "/replica-assets/31823e356820510d5fdb97e3.css",
+      "bytes": 19
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2148063676/assets/styles.css?1741633382570867",
+      "file": "/replica-assets/edf9e1d440840c9d2455ff95.css",
+      "bytes": 128073
+    },
+    {
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2148063676/assets/overrides.css?1741633382570867",
+      "file": "/replica-assets/b1d6e7f100a108088752cec9.css",
+      "bytes": 20
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-Thin.woff2?v=1",
+      "file": "/replica-assets/c5b81b57c846ca7e57e3da72.woff2",
+      "bytes": 106620
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-ThinItalic.woff2?v=1",
+      "file": "/replica-assets/6a21d7b0bc18accfaf66cd15.woff2",
+      "bytes": 113384
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-ExtraLight.woff2?v=1",
+      "file": "/replica-assets/26c808755a634c27daa46ad9.woff2",
+      "bytes": 110176
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-ExtraLightItalic.woff2?v=1",
+      "file": "/replica-assets/3283285a3851f6377cc6af59.woff2",
+      "bytes": 116296
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-Light.woff2?v=1",
+      "file": "/replica-assets/051489ce3036279d552d7303.woff2",
+      "bytes": 109992
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-LightItalic.woff2?v=1",
+      "file": "/replica-assets/cab82a3bbbcc8edcefbce5dc.woff2",
+      "bytes": 116516
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-Regular.woff2?v=1",
+      "file": "/replica-assets/6447d5627ce44192ffba201f.woff2",
+      "bytes": 108488
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-Italic.woff2?v=1",
+      "file": "/replica-assets/5ea71c5da867441221b78ff5.woff2",
+      "bytes": 114576
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-Medium.woff2?v=1",
+      "file": "/replica-assets/05ed3622f9a2fa0f2835eaf9.woff2",
+      "bytes": 111380
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-MediumItalic.woff2?v=1",
+      "file": "/replica-assets/346c60eebee25dc6517c839c.woff2",
+      "bytes": 118392
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-SemiBold.woff2?v=1",
+      "file": "/replica-assets/f3e3e344fc7c7fa26c434453.woff2",
+      "bytes": 111588
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-SemiBoldItalic.woff2?v=1",
+      "file": "/replica-assets/db5c95fdc0dbcce808a3d618.woff2",
+      "bytes": 118216
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-Bold.woff2?v=1",
+      "file": "/replica-assets/4d4937aeb674b15c9d55f64b.woff2",
+      "bytes": 111040
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-BoldItalic.woff2?v=1",
+      "file": "/replica-assets/3fc72c972c50e9553db3489e.woff2",
+      "bytes": 118392
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-ExtraBold.woff2?v=1",
+      "file": "/replica-assets/8a610f82f5ff7443e761ff69.woff2",
+      "bytes": 111360
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-ExtraBoldItalic.woff2?v=1",
+      "file": "/replica-assets/53833eb70aa653e116ea0738.woff2",
+      "bytes": 118604
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-Black.woff2?v=1",
+      "file": "/replica-assets/1f2c73221b5f891d01e0232f.woff2",
+      "bytes": 108748
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/inter/Inter-BlackItalic.woff2?v=1",
+      "file": "/replica-assets/c2a70b085f142842f7d219b8.woff2",
+      "bytes": 115364
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/noto/Noto-Sans-Arabic.woff2?v=1",
+      "file": "/replica-assets/6c5a907815db53047330ee27.woff2",
+      "bytes": 19084
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@kajabi-ui/styles@1.4.1/dist/kajabi_products/kajabi_products.css",
+      "file": "/replica-assets/9f17a6fbef462bf912b71744.css",
+      "bytes": 32994
+    }
+  ],
+  "asset_failures": [
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/sprig/FAIRE-Sprig-Thin.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/sprig/FAIRE-Sprig-ThinItalic.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/sprig/FAIRE-Sprig-Light.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/sprig/FAIRE-Sprig-LightItalic.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/sprig/FAIRE-Sprig-Regular.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/sprig/FAIRE-Sprig-RegularItalic.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/sprig/FAIRE-Sprig-Medium.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/sprig/FAIRE-Sprig-MediumItalic.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/sprig/FAIRE-Sprig-Bold.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/sprig/FAIRE-Sprig-BoldItalic.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/sprig/FAIRE-Sprig-Super.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/sprig/FAIRE-Sprig-SuperItalic.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/noto/Noto-Sans-Hebrew.woff2?v=1",
+      "reason": "HTTPError"
+    },
+    {
+      "url": "https://sage.kajabi-cdn.com/fonts/noto/Noto-Sans-Devanagari.woff2?v=1",
+      "reason": "HTTPError"
+    }
+  ],
+  "limitations": [
+    "Forms are preview-only; no persistence or delivery",
+    "Assessment scoring and results not implemented",
+    "No CMS yet; replace reference snapshots through later migration",
+    "Third-party scripts, embeds and analytics removed"
+  ]
+}

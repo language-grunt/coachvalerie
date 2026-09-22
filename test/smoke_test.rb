@@ -12,7 +12,7 @@ class SmokeTest < ActionDispatch::IntegrationTest
   end
 
   test "root serves the Rails staging proof" do
-    get "/", headers: preview_headers
+    get "/preview-health/database", headers: preview_headers
     assert_response :success
     assert_equal "hello world\n", response.body
     assert_equal "noindex, nofollow, noarchive", response.headers["X-Robots-Tag"]
@@ -26,7 +26,7 @@ class SmokeTest < ActionDispatch::IntegrationTest
 
   test "root really reads the database" do
     ActiveRecord::Base.connection.execute("UPDATE greetings SET message = 'changed' WHERE id = 1")
-    get "/", headers: preview_headers
+    get "/preview-health/database", headers: preview_headers
     assert_response :internal_server_error
   end
 

@@ -1,3 +1,19 @@
+# Coach Valerie protected staging replica
+
+The staging homepage now reproduces the current public site at www.coachvalerie.com from the September 19 archive. It serves 42 page snapshots, 17 observed aliases and three explicit preview repairs through Rails, with local images, CSS and fonts. This is a temporary read-only reference, not the finished modular CMS.
+
+All pages/assets remain behind the staging password. Original scripts/analytics/embeds are removed. A restrictive Content Security Policy blocks outbound connections and form submissions; local JavaScript supports mobile navigation, the signup dialog and explicit preview-only form feedback. Assessment scoring and live delivery are not simulated. External Amazon/course/social links still lead to their providers on deliberate clicks.
+
+The PostgreSQL smoke probe has moved to the protected `/preview-health/database`; `/up` remains the minimal public health endpoint. Unknown pages return an honest 404. Case-sensitive routes remain distinct. No database migration is needed.
+
+Rebuild snapshots with `python script/build_replica.py /path/to/site_archive/2026-09-19` using Beautiful Soup 4 in a separate build environment. The source archive is maintained in the Obsidian project. Runtime requires no Python dependency. `replica/import-report.json` records source, assets and import limitations. Some optional theme font URLs return errors; source Montserrat/EB Garamond and visible core assets are hosted locally. Current source layout/text is preserved; this is not a pixel-perfect certification of every page.
+
+Run the three Ruby test files in `test/` after preparing a disposable PostgreSQL database. CI verifies every archived page, aliases, local asset references, CSP, password protection and database health. Browser checks cover desktop/mobile, images, menu, popup and preview form feedback.
+
+Rollback: restore protected SHA `fc607e18a688fd2edfd2dab8c40b67daea2f7c87`; never restore the earlier anonymous proof. The replica adds no subscriptions/resources or DNS changes. Production and `main` remain unchanged.
+
+---
+
 # Coach Valerie staging deployment proof
 
 A minimal Rails 8.1 app with PostgreSQL, solely to prove GitHub to Render deployment. This is not the full Rails foundation or the public website.
