@@ -42,12 +42,22 @@
     "asset_0039": "/replica-assets/ff0fd81320dcf87e2415.webp",
     "text_0040": "Skip this field",
     "text_0041": "Name",
-    "text_0042": "Email Address"
+    "text_0042": "Email Address",
+    "text_0043": "website",
+    "text_0044": "https://www.coachvalerie.com/boundary-setting",
+    "text_0045": "summary_large_image",
+    "text_0046": "The Art of Boundary-Setting",
+    "text_0047": "The Art of Boundary-Setting"
   },
   "sections": {
     "page": [
       "background_0001",
-      "text_0002"
+      "text_0002",
+      "text_0043",
+      "text_0044",
+      "text_0045",
+      "text_0046",
+      "text_0047"
     ],
     "1709317912792": [
       "text_0003",

@@ -87,4 +87,22 @@ class ReplicaTest < ActionDispatch::IntegrationTest
     refute page.valid?
   end
 
+  test "a replacement layout can reuse existing content without rewriting it" do
+    page = ReferencePage.find_by!(path: "/")
+    original_content = page.fields.deep_dup
+    key = page.fields.find { |_key, value| value.include?("Coming True") }.first
+    template = Rails.root.join("replica/templates", ReplicaController::MANIFEST.fetch("pages").fetch("/"))
+    original_layout = template.read
+    begin
+      template.write("<html><body><article data-layout='alternate'><h1>{{content:#{key}}}</h1></article></body></html>")
+      get "/", headers: headers
+      assert_response :success
+      assert_includes response.body, "data-layout='alternate'"
+      assert_includes response.body, ERB::Util.html_escape(original_content.fetch(key))
+      assert_equal original_content, page.reload.fields
+    ensure
+      template.write(original_layout)
+    end
+  end
+
 end

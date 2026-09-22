@@ -283,5 +283,40 @@
     "kind": "text",
     "section": "two_step",
     "element": "input"
+  },
+  "text_0058": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0059": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0060": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0061": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0062": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0063": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0064": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
   }
 }

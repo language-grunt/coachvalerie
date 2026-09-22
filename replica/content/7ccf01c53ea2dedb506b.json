@@ -46,12 +46,22 @@
     "asset_0043": "/replica-assets/ff0fd81320dcf87e2415.webp",
     "text_0044": "Skip this field",
     "text_0045": "Name",
-    "text_0046": "Email Address"
+    "text_0046": "Email Address",
+    "text_0047": "website",
+    "text_0048": "https://www.coachvalerie.com/get-in-touch",
+    "text_0049": "summary_large_image",
+    "text_0050": "Get in Touch ",
+    "text_0051": "Get in Touch "
   },
   "sections": {
     "page": [
       "background_0001",
-      "text_0002"
+      "text_0002",
+      "text_0047",
+      "text_0048",
+      "text_0049",
+      "text_0050",
+      "text_0051"
     ],
     "1709317979258": [
       "text_0003",

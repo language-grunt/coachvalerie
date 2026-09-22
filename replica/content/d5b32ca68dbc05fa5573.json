@@ -21,11 +21,21 @@
     "link_0018": "https://www.pinterest.ph/valeriemirto/",
     "link_0019": "https://www.tiktok.com/@lifecoachvalerie",
     "link_0020": "https://medium.com/@coachvalerie",
-    "asset_0021": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0021": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0022": "website",
+    "text_0023": "https://www.coachvalerie.com/works-with-Valerie-thank-you-page",
+    "text_0024": "summary_large_image",
+    "text_0025": "Works With Valerie Thank You Page ",
+    "text_0026": "Works With Valerie Thank You Page "
   },
   "sections": {
     "page": [
-      "text_0001"
+      "text_0001",
+      "text_0022",
+      "text_0023",
+      "text_0024",
+      "text_0025",
+      "text_0026"
     ],
     "1712337182853": [
       "text_0002",

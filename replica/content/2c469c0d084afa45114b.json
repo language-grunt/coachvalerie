@@ -17,11 +17,21 @@
     "link_0014": "https://www.facebook.com/kajabi",
     "link_0015": "https://www.twitter.com/kajabi",
     "link_0016": "https://www.instagram.com/kajabi",
-    "asset_0017": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0017": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0018": "website",
+    "text_0019": "https://www.coachvalerie.com/download-stress-less-plan",
+    "text_0020": "summary_large_image",
+    "text_0021": "Download the Stress Less Plan",
+    "text_0022": "Download the Stress Less Plan"
   },
   "sections": {
     "page": [
-      "text_0001"
+      "text_0001",
+      "text_0018",
+      "text_0019",
+      "text_0020",
+      "text_0021",
+      "text_0022"
     ],
     "1702666533790": [
       "text_0002",

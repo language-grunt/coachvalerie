@@ -43,12 +43,22 @@
     "link_0040": "/Work-with-Valerie",
     "link_0041": "/groups-and-workshops",
     "link_0042": "/get-in-touch",
-    "asset_0043": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0043": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0044": "website",
+    "text_0045": "https://www.coachvalerie.com/thank-you",
+    "text_0046": "summary_large_image",
+    "text_0047": "Thank You",
+    "text_0048": "Thank You"
   },
   "sections": {
     "page": [
       "background_0001",
-      "text_0002"
+      "text_0002",
+      "text_0044",
+      "text_0045",
+      "text_0046",
+      "text_0047",
+      "text_0048"
     ],
     "header": [
       "text_0003",

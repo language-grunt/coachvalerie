@@ -160,11 +160,21 @@
     "link_0157": "/Work-with-Valerie",
     "link_0158": "/groups-and-workshops",
     "link_0159": "/get-in-touch",
-    "asset_0160": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0160": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0161": "website",
+    "text_0162": "https://www.coachvalerie.com/terms-conditions",
+    "text_0163": "summary_large_image",
+    "text_0164": "Terms & Conditions",
+    "text_0165": "Terms & Conditions"
   },
   "sections": {
     "page": [
-      "text_0001"
+      "text_0001",
+      "text_0161",
+      "text_0162",
+      "text_0163",
+      "text_0164",
+      "text_0165"
     ],
     "1606332086619": [
       "text_0002",

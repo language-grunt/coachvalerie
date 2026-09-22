@@ -63,13 +63,27 @@
     "asset_0060": "/replica-assets/ff0fd81320dcf87e2415.webp",
     "text_0061": "Skip this field",
     "text_0062": "Name",
-    "text_0063": "Email Address"
+    "text_0063": "Email Address",
+    "text_0064": "website",
+    "text_0065": "https://www.coachvalerie.com/blog",
+    "text_0066": "summary_large_image",
+    "text_0067": "Article 1",
+    "text_0068": "Article 1",
+    "text_0069": "XXX",
+    "text_0070": "XXX"
   },
   "sections": {
     "page": [
       "background_0001",
       "text_0002",
-      "text_0025"
+      "text_0025",
+      "text_0064",
+      "text_0065",
+      "text_0066",
+      "text_0067",
+      "text_0068",
+      "text_0069",
+      "text_0070"
     ],
     "header": [
       "text_0003",

@@ -24,11 +24,21 @@
     "link_0021": "https://www.pinterest.ph/valeriemirto/",
     "link_0022": "https://www.tiktok.com/@lifecoachvalerie",
     "link_0023": "https://medium.com/@coachvalerie",
-    "asset_0024": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0024": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0025": "website",
+    "text_0026": "https://www.coachvalerie.com/Seven-Ways-to-Cultivate-Self-Compassion-ThankyouPage",
+    "text_0027": "summary_large_image",
+    "text_0028": "Seven Ways to Cultivate Self-Compassion Thank you Page",
+    "text_0029": "Seven Ways to Cultivate Self-Compassion Thank you Page"
   },
   "sections": {
     "page": [
-      "text_0001"
+      "text_0001",
+      "text_0025",
+      "text_0026",
+      "text_0027",
+      "text_0028",
+      "text_0029"
     ],
     "1606158659144": [
       "text_0002",

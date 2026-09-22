@@ -77,12 +77,22 @@
     "asset_0074": "/replica-assets/ff0fd81320dcf87e2415.webp",
     "text_0075": "Skip this field",
     "text_0076": "Name",
-    "text_0077": "Email Address"
+    "text_0077": "Email Address",
+    "text_0078": "website",
+    "text_0079": "https://www.coachvalerie.com/groups-and-workshops",
+    "text_0080": "summary_large_image",
+    "text_0081": "Groups and Workshops",
+    "text_0082": "Groups and Workshops"
   },
   "sections": {
     "page": [
       "background_0001",
-      "text_0002"
+      "text_0002",
+      "text_0078",
+      "text_0079",
+      "text_0080",
+      "text_0081",
+      "text_0082"
     ],
     "header": [
       "text_0003",

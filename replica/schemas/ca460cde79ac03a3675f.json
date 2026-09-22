@@ -133,5 +133,30 @@
     "kind": "asset",
     "section": "two_step",
     "element": "img"
+  },
+  "text_0028": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0029": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0030": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0031": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0032": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
   }
 }

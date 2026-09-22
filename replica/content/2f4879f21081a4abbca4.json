@@ -84,11 +84,21 @@
     "link_0081": "/Work-with-Valerie",
     "link_0082": "/groups-and-workshops",
     "link_0083": "/get-in-touch",
-    "asset_0084": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0084": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0085": "website",
+    "text_0086": "https://www.coachvalerie.com/instructions-for-listing-emails-instructions-for-white-listing-emails",
+    "text_0087": "summary_large_image",
+    "text_0088": "Instructions for Listing Emails Instructions for White Listing Emails",
+    "text_0089": "Instructions for Listing Emails Instructions for White Listing Emails"
   },
   "sections": {
     "page": [
-      "text_0001"
+      "text_0001",
+      "text_0085",
+      "text_0086",
+      "text_0087",
+      "text_0088",
+      "text_0089"
     ],
     "header": [
       "text_0002",

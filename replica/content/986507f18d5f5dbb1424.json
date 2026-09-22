@@ -74,12 +74,22 @@
     "link_0071": "https://www.pinterest.ph/valeriemirto/",
     "link_0072": "https://www.tiktok.com/@lifecoachvalerie",
     "link_0073": "https://medium.com/@coachvalerie",
-    "asset_0074": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0074": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0075": "website",
+    "text_0076": "https://www.coachvalerie.com/DD-B-promotion",
+    "text_0077": "summary_large_image",
+    "text_0078": "Daily Do-able (book/subscription) ",
+    "text_0079": "Daily Do-able (book/subscription) "
   },
   "sections": {
     "page": [
       "background_0001",
-      "text_0002"
+      "text_0002",
+      "text_0075",
+      "text_0076",
+      "text_0077",
+      "text_0078",
+      "text_0079"
     ],
     "1606258505758": [
       "text_0003",

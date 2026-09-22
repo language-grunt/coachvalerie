@@ -87,13 +87,23 @@
     "link_0084": "https://www.facebook.com/kajabi",
     "link_0085": "https://www.twitter.com/kajabi",
     "link_0086": "https://www.instagram.com/kajabi",
-    "asset_0087": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0087": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0088": "website",
+    "text_0089": "https://www.coachvalerie.com/sales_page_",
+    "text_0090": "summary_large_image",
+    "text_0091": "Sales Page",
+    "text_0092": "Sales Page"
   },
   "sections": {
     "page": [
       "background_0001",
       "background_0002",
-      "text_0003"
+      "text_0003",
+      "text_0088",
+      "text_0089",
+      "text_0090",
+      "text_0091",
+      "text_0092"
     ],
     "1606258505758": [
       "text_0004",

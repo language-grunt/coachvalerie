@@ -41,12 +41,22 @@
     "asset_0038": "/replica-assets/ff0fd81320dcf87e2415.webp",
     "text_0039": "Skip this field",
     "text_0040": "Name",
-    "text_0041": "Email Address"
+    "text_0041": "Email Address",
+    "text_0042": "website",
+    "text_0043": "https://www.coachvalerie.com/stress-less-lead-magnet-page",
+    "text_0044": "summary_large_image",
+    "text_0045": "Stress Less Lead Magnet Page",
+    "text_0046": "Stress Less Lead Magnet Page"
   },
   "sections": {
     "page": [
       "background_0001",
-      "text_0002"
+      "text_0002",
+      "text_0042",
+      "text_0043",
+      "text_0044",
+      "text_0045",
+      "text_0046"
     ],
     "1709321828698": [
       "text_0003",

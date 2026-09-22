@@ -29,12 +29,22 @@
     "asset_0026": "/replica-assets/ff0fd81320dcf87e2415.webp",
     "text_0027": "Skip this field",
     "text_0028": "Name",
-    "text_0029": "Email Address"
+    "text_0029": "Email Address",
+    "text_0030": "website",
+    "text_0031": "https://www.coachvalerie.com/success-through-self-care",
+    "text_0032": "summary_large_image",
+    "text_0033": "Success through Self-Care",
+    "text_0034": "Success through Self-Care"
   },
   "sections": {
     "page": [
       "background_0001",
-      "text_0002"
+      "text_0002",
+      "text_0030",
+      "text_0031",
+      "text_0032",
+      "text_0033",
+      "text_0034"
     ],
     "1709320730568": [
       "text_0003",

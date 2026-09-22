@@ -36,11 +36,21 @@
     "link_0033": "https://www.pinterest.ph/valeriemirto/",
     "link_0034": "https://www.tiktok.com/@lifecoachvalerie",
     "link_0035": "https://medium.com/@coachvalerie",
-    "asset_0036": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0036": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0037": "website",
+    "text_0038": "https://www.coachvalerie.com/Belief-Blossoming-Workshop-Thank-You-Page",
+    "text_0039": "summary_large_image",
+    "text_0040": "Belief Blossoming Workshop Thank you page",
+    "text_0041": "Belief Blossoming Workshop Thank you page"
   },
   "sections": {
     "page": [
-      "text_0001"
+      "text_0001",
+      "text_0037",
+      "text_0038",
+      "text_0039",
+      "text_0040",
+      "text_0041"
     ],
     "header": [
       "text_0002",

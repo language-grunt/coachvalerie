@@ -25,11 +25,21 @@
     "link_0022": "https://www.pinterest.ph/valeriemirto/",
     "link_0023": "https://www.tiktok.com/@lifecoachvalerie",
     "link_0024": "https://medium.com/@coachvalerie",
-    "asset_0025": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0025": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0026": "website",
+    "text_0027": "https://www.coachvalerie.com/True-Assessment-Thank-You-Page",
+    "text_0028": "summary_large_image",
+    "text_0029": "True Assessment Thank You Page",
+    "text_0030": "True Assessment Thank You Page"
   },
   "sections": {
     "page": [
-      "text_0001"
+      "text_0001",
+      "text_0026",
+      "text_0027",
+      "text_0028",
+      "text_0029",
+      "text_0030"
     ],
     "1712337182853": [
       "text_0002",

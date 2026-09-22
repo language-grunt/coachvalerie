@@ -196,12 +196,22 @@
     "asset_0193": "/replica-assets/ff0fd81320dcf87e2415.webp",
     "text_0194": "Skip this field",
     "text_0195": "Name",
-    "text_0196": "Email Address"
+    "text_0196": "Email Address",
+    "text_0197": "website",
+    "text_0198": "https://www.coachvalerie.com/true-assestment",
+    "text_0199": "summary_large_image",
+    "text_0200": "True Assestment",
+    "text_0201": "True Assestment"
   },
   "sections": {
     "page": [
       "background_0001",
-      "text_0002"
+      "text_0002",
+      "text_0197",
+      "text_0198",
+      "text_0199",
+      "text_0200",
+      "text_0201"
     ],
     "1709319815909": [
       "text_0003",

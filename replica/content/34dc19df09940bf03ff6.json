@@ -57,14 +57,28 @@
     "asset_0054": "/replica-assets/ff0fd81320dcf87e2415.webp",
     "text_0055": "Skip this field",
     "text_0056": "Name",
-    "text_0057": "Email Address"
+    "text_0057": "Email Address",
+    "text_0058": "website",
+    "text_0059": "https://www.coachvalerie.com/Meet-Valerie",
+    "text_0060": "summary_large_image",
+    "text_0061": "Meet Valerie",
+    "text_0062": "Meet Valerie",
+    "text_0063": "Life-changing self-care and success tools for women in business from twenty-year life coach Valerie Mirto. Live your best life — the life you have imagined. Leverage the power of authenticity and mindfulness so you can thrive, personally and professionally.",
+    "text_0064": "Life-changing self-care and success tools for women in business from twenty-year life coach Valerie Mirto. Live your best life — the life you have imagined. Leverage the power of authenticity and mindfulness so you can thrive, personally and professionally."
   },
   "sections": {
     "page": [
       "background_0001",
       "background_0002",
       "text_0003",
-      "text_0030"
+      "text_0030",
+      "text_0058",
+      "text_0059",
+      "text_0060",
+      "text_0061",
+      "text_0062",
+      "text_0063",
+      "text_0064"
     ],
     "header": [
       "text_0004",

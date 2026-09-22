@@ -34,11 +34,21 @@
     "link_0031": "https://www.pinterest.ph/valeriemirto/",
     "link_0032": "https://www.tiktok.com/@lifecoachvalerie",
     "link_0033": "https://medium.com/@coachvalerie",
-    "asset_0034": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0034": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0035": "website",
+    "text_0036": "https://www.coachvalerie.com/daily-doables-promotional-sales-page",
+    "text_0037": "summary_large_image",
+    "text_0038": "Daily Doables Promotional Sales Page",
+    "text_0039": "Daily Doables Promotional Sales Page"
   },
   "sections": {
     "page": [
-      "text_0001"
+      "text_0001",
+      "text_0035",
+      "text_0036",
+      "text_0037",
+      "text_0038",
+      "text_0039"
     ],
     "1606258505758": [
       "text_0002",

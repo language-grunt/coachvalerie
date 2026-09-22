@@ -200,11 +200,21 @@
     "link_0197": "/Work-with-Valerie",
     "link_0198": "/groups-and-workshops",
     "link_0199": "/get-in-touch",
-    "asset_0200": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0200": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0201": "website",
+    "text_0202": "https://www.coachvalerie.com/privacy-policy",
+    "text_0203": "summary_large_image",
+    "text_0204": "PRIVACY POLICY",
+    "text_0205": "PRIVACY POLICY"
   },
   "sections": {
     "page": [
-      "text_0001"
+      "text_0001",
+      "text_0201",
+      "text_0202",
+      "text_0203",
+      "text_0204",
+      "text_0205"
     ],
     "1606332086619": [
       "text_0002",

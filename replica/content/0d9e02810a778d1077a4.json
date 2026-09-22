@@ -48,12 +48,22 @@
     "link_0045": "/Work-with-Valerie",
     "link_0046": "/groups-and-workshops",
     "link_0047": "/get-in-touch",
-    "asset_0048": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0048": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0049": "website",
+    "text_0050": "https://www.coachvalerie.com/opt-in",
+    "text_0051": "summary_large_image",
+    "text_0052": "Opt-in",
+    "text_0053": "Opt-in"
   },
   "sections": {
     "page": [
       "background_0001",
-      "text_0002"
+      "text_0002",
+      "text_0049",
+      "text_0050",
+      "text_0051",
+      "text_0052",
+      "text_0053"
     ],
     "header": [
       "text_0003",

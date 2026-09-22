@@ -33,11 +33,21 @@
     "link_0030": "https://www.pinterest.ph/lifecoachvalerie/",
     "link_0031": "https://www.tiktok.com/@lifecoachvalerie",
     "link_0032": "https://medium.com/@coachvalerie",
-    "asset_0033": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0033": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0034": "website",
+    "text_0035": "https://www.coachvalerie.com/A-Case-For-Self-Compassion",
+    "text_0036": "summary_large_image",
+    "text_0037": "A Case For Self-Compassion ",
+    "text_0038": "A Case For Self-Compassion "
   },
   "sections": {
     "page": [
-      "text_0001"
+      "text_0001",
+      "text_0034",
+      "text_0035",
+      "text_0036",
+      "text_0037",
+      "text_0038"
     ],
     "1606260100947": [
       "text_0002",

@@ -43,11 +43,21 @@
     "link_0040": "/terms-conditions",
     "link_0041": "https://www.instagram.com/lifecoachvalerie/",
     "link_0042": "https://www.pinterest.ph/valeriemirto/",
-    "link_0043": "https://www.tiktok.com/@lifecoachvalerie"
+    "link_0043": "https://www.tiktok.com/@lifecoachvalerie",
+    "text_0044": "website",
+    "text_0045": "https://www.coachvalerie.com/Work-with-Valerie",
+    "text_0046": "summary_large_image",
+    "text_0047": "Work with Valerie",
+    "text_0048": "Work with Valerie"
   },
   "sections": {
     "page": [
-      "text_0001"
+      "text_0001",
+      "text_0044",
+      "text_0045",
+      "text_0046",
+      "text_0047",
+      "text_0048"
     ],
     "header": [
       "text_0002",

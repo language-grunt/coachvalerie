@@ -143,5 +143,30 @@
     "kind": "text",
     "section": "two_step",
     "element": "input"
+  },
+  "text_0030": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0031": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0032": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0033": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0034": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
   }
 }

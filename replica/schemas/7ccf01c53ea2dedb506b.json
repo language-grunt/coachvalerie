@@ -228,5 +228,30 @@
     "kind": "text",
     "section": "two_step",
     "element": "input"
+  },
+  "text_0047": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0048": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0049": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0050": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0051": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
   }
 }

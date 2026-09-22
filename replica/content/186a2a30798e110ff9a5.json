@@ -32,12 +32,26 @@
     "link_0029": "https://www.pinterest.ph/valeriemirto/",
     "link_0030": "https://www.tiktok.com/@lifecoachvalerie",
     "link_0031": "https://medium.com/@coachvalerie",
-    "asset_0032": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0032": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0033": "website",
+    "text_0034": "https://www.coachvalerie.com/MMomentsJournal2",
+    "text_0035": "summary_large_image",
+    "text_0036": "Journal2",
+    "text_0037": "Journal2",
+    "text_0038": "Journal ordering page for previous Mindful Moments journal customers.",
+    "text_0039": "Journal ordering page for previous Mindful Moments journal customers."
   },
   "sections": {
     "page": [
       "text_0001",
-      "text_0017"
+      "text_0017",
+      "text_0033",
+      "text_0034",
+      "text_0035",
+      "text_0036",
+      "text_0037",
+      "text_0038",
+      "text_0039"
     ],
     "presale_v0_0_1__signup": [
       "text_0002",

@@ -213,5 +213,30 @@
     "kind": "link",
     "section": "footer",
     "element": "a"
+  },
+  "text_0044": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0045": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0046": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0047": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0048": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
   }
 }

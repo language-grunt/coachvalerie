@@ -50,7 +50,7 @@ for path,filename in manifest['pages'].items():
    if not value:continue
    kind='asset' if attr in ['src','poster'] else 'link' if attr=='href' else 'text'
    marker,key=slot(value,kind,tag);tag[attr]=marker
-  if tag.name=='meta' and tag.get('name')=='description':
+  if tag.name=='meta' and (tag.get('name')=='description' or tag.get('property','').startswith('og:') or tag.get('name','').startswith('twitter:')):
    marker,key=slot(tag.get('content',''),'text',tag);tag['content']=marker
  stem=Path(filename).stem
  style_name='/replica-assets/page-'+stem+'.css'

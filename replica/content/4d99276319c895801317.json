@@ -38,11 +38,21 @@
     "link_0035": "/Work-with-Valerie",
     "link_0036": "/groups-and-workshops",
     "link_0037": "/get-in-touch",
-    "asset_0038": "/replica-assets/fde65c6bf219216d5861.png"
+    "asset_0038": "/replica-assets/fde65c6bf219216d5861.png",
+    "text_0039": "website",
+    "text_0040": "https://www.coachvalerie.com/taste-of-true",
+    "text_0041": "summary_large_image",
+    "text_0042": "Taste of True",
+    "text_0043": "Taste of True"
   },
   "sections": {
     "page": [
-      "text_0001"
+      "text_0001",
+      "text_0039",
+      "text_0040",
+      "text_0041",
+      "text_0042",
+      "text_0043"
     ],
     "1607018898870": [
       "text_0002"
