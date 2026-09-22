@@ -1,0 +1,61 @@
+{
+  "path": "/Thank-You-Page-Bundle-Offers",
+  "fields": {
+    "text_0001": "\n      \n         Daily Do-ables Thank You Page\n      \n    ",
+    "text_0002": "T",
+    "text_0003": "hank you for purchasing Daily Doables. Check your inbox for more.",
+    "text_0004": "\n  \n    Return to the Home Page\n  \n",
+    "text_0005": "©Copyright 2024 Life Come True LLC",
+    "text_0006": "Privacy Policy",
+    "text_0007": "Terms & Conditions",
+    "text_0008": "Join Our Free Trial",
+    "text_0009": "Get started today before this once in a lifetime opportunity expires.",
+    "link_0010": "/",
+    "text_0011": "Header Logo",
+    "asset_0012": "/replica-assets/bf2f97591650bd787ef5.webp",
+    "text_0013": "Open navigation",
+    "link_0014": "/",
+    "link_0015": "/",
+    "link_0016": "/privacy-policy",
+    "link_0017": "/terms-conditions",
+    "link_0018": "https://www.instagram.com/lifecoachvalerie/",
+    "link_0019": "https://www.instagram.com/lifecoachvalerie/",
+    "link_0020": "https://www.instagram.com/lifecoachvalerie/",
+    "link_0021": "https://medium.com/@coachvalerie",
+    "asset_0022": "/replica-assets/fde65c6bf219216d5861.png"
+  },
+  "sections": {
+    "page": [
+      "text_0001"
+    ],
+    "1606158659144": [
+      "text_0002",
+      "text_0003",
+      "text_0004",
+      "link_0014"
+    ],
+    "footer": [
+      "text_0005",
+      "text_0006",
+      "text_0007",
+      "link_0015",
+      "link_0016",
+      "link_0017",
+      "link_0018",
+      "link_0019",
+      "link_0020",
+      "link_0021"
+    ],
+    "two_step": [
+      "text_0008",
+      "text_0009",
+      "asset_0022"
+    ],
+    "header": [
+      "link_0010",
+      "text_0011",
+      "asset_0012",
+      "text_0013"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "background_0001": {
+    "kind": "background",
+    "section": "page",
+    "element": null
+  },
+  "text_0002": {
+    "kind": "text",
+    "section": "page",
+    "element": "title"
+  },
+  "text_0003": {
+    "kind": "text",
+    "section": "1606260100947",
+    "element": "strong"
+  },
+  "text_0004": {
+    "kind": "text",
+    "section": "1606260100947",
+    "element": "span"
+  },
+  "text_0005": {
+    "kind": "text",
+    "section": "1606260100947",
+    "element": "em"
+  },
+  "text_0006": {
+    "kind": "text",
+    "section": "1606260100947",
+    "element": "button"
+  },
+  "text_0007": {
+    "kind": "text",
+    "section": "1606260100947",
+    "element": "p"
+  },
+  "text_0008": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0009": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0010": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0011": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "h4"
+  },
+  "text_0012": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "p"
+  },
+  "link_0013": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0014": {
+    "kind": "text",
+    "section": "header",
+    "element": "img"
+  },
+  "asset_0015": {
+    "kind": "asset",
+    "section": "header",
+    "element": "img"
+  },
+  "text_0016": {
+    "kind": "text",
+    "section": "header",
+    "element": "div"
+  },
+  "text_0017": {
+    "kind": "text",
+    "section": "1606260100947",
+    "element": "input"
+  },
+  "text_0018": {
+    "kind": "text",
+    "section": "1606260100947",
+    "element": "input"
+  },
+  "text_0019": {
+    "kind": "text",
+    "section": "1606260100947",
+    "element": "input"
+  },
+  "link_0020": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0021": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0022": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0023": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0024": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0025": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0026": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "asset_0027": {
+    "kind": "asset",
+    "section": "two_step",
+    "element": "img"
+  }
+}

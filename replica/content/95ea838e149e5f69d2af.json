@@ -1,0 +1,85 @@
+{
+  "path": "/daily-doables-promotional-sales-page",
+  "fields": {
+    "text_0001": "\n      \n        Daily Doables Promotional Sales Page\n      \n    ",
+    "text_0002": "Daily Do-ables: Creative Stress Solutions for Busy Women",
+    "text_0003": "Ease everyday stress as you drink in 52 weeks of self-care alongside stunning flower photography.",
+    "text_0004": "Tailored for Your Busy Life",
+    "text_0005": ": Crafted for women with packed schedules, these ",
+    "text_0006": "Do-ables",
+    "text_0007": " are bite-sized, so they're easy to integrate into your busiest days.",
+    "text_0008": "Unlock Your True Potential",
+    "text_0009": ": As stress fades, you're able to step into your true power. With newfound resilience and capacity, you'll have more to give to the people and projects you care about.",
+    "text_0010": "Daily Acts of Self-Love",
+    "text_0011": ": Balance some of life's chaos with a little \"beauty therapy,\" with each turn of the page.",
+    "text_0012": "When you open these pages, you'll find a place where stress dissolves, and self-care blossoms… ",
+    "text_0013": "CLICK ON THE IMAGE BELOW TO ORDER ",
+    "text_0014": "                (You'll be taken to the book's page on Amazon.)",
+    "text_0015": "©Copyright 2024 Life Come True LLC",
+    "text_0016": "Privacy Policy",
+    "text_0017": "Terms & Conditions",
+    "text_0018": "Join Our Free Trial",
+    "text_0019": "Get started today before this once in a lifetime opportunity expires.",
+    "link_0020": "/",
+    "text_0021": "Header Logo",
+    "asset_0022": "/replica-assets/1cf4b8b0d074f7709bc9.webp",
+    "text_0023": "Open navigation",
+    "asset_0024": "/replica-assets/94300c1d67326b114aba.png",
+    "link_0025": "https://www.amazon.com/Daily-Do-ables-Creative-Stress-Solutions/dp/B0DQL5Q7QL/ref=sr_1_1?crid=1SSX2MT1E6QCE&dib=eyJ2IjoiMSJ9.3y21IY9wIZpDm2netzygQM1w-oakZ8zEB8nVRj_dTwg.3d8MXcdmvihHLyaajW5I-R6E9tyyBdqiYZOxqZg7NgU&dib_tag=se&keywords=daily+do-ables+book+valerie&qid=1768267784&sprefix=daily+do-ables+book+valeire%2Caps%2C138&sr=8-1",
+    "asset_0026": "/replica-assets/94300c1d67326b114aba.png",
+    "link_0027": "/",
+    "link_0028": "/privacy-policy",
+    "link_0029": "/terms-conditions",
+    "link_0030": "https://www.instagram.com/lifecoachvalerie/",
+    "link_0031": "https://www.pinterest.ph/valeriemirto/",
+    "link_0032": "https://www.tiktok.com/@lifecoachvalerie",
+    "link_0033": "https://medium.com/@coachvalerie",
+    "asset_0034": "/replica-assets/fde65c6bf219216d5861.png"
+  },
+  "sections": {
+    "page": [
+      "text_0001"
+    ],
+    "1606258505758": [
+      "text_0002",
+      "text_0003",
+      "text_0004",
+      "text_0005",
+      "text_0006",
+      "text_0007",
+      "text_0008",
+      "text_0009",
+      "text_0010",
+      "text_0011",
+      "text_0012",
+      "text_0013",
+      "text_0014",
+      "asset_0024",
+      "link_0025",
+      "asset_0026"
+    ],
+    "footer": [
+      "text_0015",
+      "text_0016",
+      "text_0017",
+      "link_0027",
+      "link_0028",
+      "link_0029",
+      "link_0030",
+      "link_0031",
+      "link_0032",
+      "link_0033"
+    ],
+    "two_step": [
+      "text_0018",
+      "text_0019",
+      "asset_0034"
+    ],
+    "header": [
+      "link_0020",
+      "text_0021",
+      "asset_0022",
+      "text_0023"
+    ]
+  }
+}

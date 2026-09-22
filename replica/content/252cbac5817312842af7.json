@@ -1,0 +1,67 @@
+{
+  "path": "/Stress-Less-Thank-You-Page",
+  "fields": {
+    "text_0001": "\n      \n        Stress Less Thank You Page\n      \n    ",
+    "text_0002": "Thank you for signing up! ",
+    "text_0003": "Please click below to confirm your opt-in. Then, check your inbox for your complimentary resource, \"Stress Less\". ",
+    "text_0004": "If you have any questions, please contact us at ",
+    "text_0005": "admin@coachvalerie.com",
+    "text_0006": "\n  \n    Return to the Home Page \n  \n",
+    "text_0007": "©Copyright 2024 Life Come True LLC",
+    "text_0008": "Privacy Policy",
+    "text_0009": "Terms & Conditions",
+    "text_0010": "Join Our Free Trial",
+    "text_0011": "Get started today before this once in a lifetime opportunity expires.",
+    "link_0012": "/",
+    "text_0013": "Header Logo",
+    "asset_0014": "/replica-assets/bf2f97591650bd787ef5.webp",
+    "text_0015": "Open navigation",
+    "link_0016": "mailto:admin@coachvalerie.com",
+    "link_0017": "/",
+    "link_0018": "/",
+    "link_0019": "/privacy-policy",
+    "link_0020": "/terms-conditions",
+    "link_0021": "https://www.instagram.com/lifecoachvalerie/",
+    "link_0022": "https://www.pinterest.ph/valeriemirto/",
+    "link_0023": "https://www.tiktok.com/@lifecoachvalerie",
+    "link_0024": "https://medium.com/@coachvalerie",
+    "asset_0025": "/replica-assets/fde65c6bf219216d5861.png"
+  },
+  "sections": {
+    "page": [
+      "text_0001"
+    ],
+    "1712337182853": [
+      "text_0002",
+      "text_0003",
+      "text_0004",
+      "text_0005",
+      "text_0006",
+      "link_0016",
+      "link_0017"
+    ],
+    "footer": [
+      "text_0007",
+      "text_0008",
+      "text_0009",
+      "link_0018",
+      "link_0019",
+      "link_0020",
+      "link_0021",
+      "link_0022",
+      "link_0023",
+      "link_0024"
+    ],
+    "two_step": [
+      "text_0010",
+      "text_0011",
+      "asset_0025"
+    ],
+    "header": [
+      "link_0012",
+      "text_0013",
+      "asset_0014",
+      "text_0015"
+    ]
+  }
+}

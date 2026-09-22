@@ -1,0 +1,63 @@
+{
+  "path": "/thank-you-page",
+  "fields": {
+    "text_0001": "\n      \n        Thank You Page\n      \n    ",
+    "text_0002": "🎉",
+    "text_0003": "Subscription confirmed!",
+    "text_0004": "Your Daily Do-ables are on their way!",
+    "text_0005": "\n  \n    Return to  Home Page\n  \n",
+    "text_0006": "©Copyright 2024 Life Come True LLC",
+    "text_0007": "Privacy Policy",
+    "text_0008": "Terms & Conditions",
+    "text_0009": "Join Our Free Trial",
+    "text_0010": "Get started today before this once in a lifetime opportunity expires.",
+    "link_0011": "/",
+    "text_0012": "Header Logo",
+    "asset_0013": "/replica-assets/bf2f97591650bd787ef5.webp",
+    "text_0014": "Open navigation",
+    "link_0015": "/",
+    "link_0016": "/",
+    "link_0017": "/privacy-policy",
+    "link_0018": "/terms-conditions",
+    "link_0019": "https://www.instagram.com/lifecoachvalerie/",
+    "link_0020": "https://www.pinterest.ph/valeriemirto/",
+    "link_0021": "https://www.tiktok.com/@lifecoachvalerie",
+    "link_0022": "https://medium.com/@coachvalerie",
+    "asset_0023": "/replica-assets/fde65c6bf219216d5861.png"
+  },
+  "sections": {
+    "page": [
+      "text_0001"
+    ],
+    "1606158659144": [
+      "text_0002",
+      "text_0003",
+      "text_0004",
+      "text_0005",
+      "link_0015"
+    ],
+    "footer": [
+      "text_0006",
+      "text_0007",
+      "text_0008",
+      "link_0016",
+      "link_0017",
+      "link_0018",
+      "link_0019",
+      "link_0020",
+      "link_0021",
+      "link_0022"
+    ],
+    "two_step": [
+      "text_0009",
+      "text_0010",
+      "asset_0023"
+    ],
+    "header": [
+      "link_0011",
+      "text_0012",
+      "asset_0013",
+      "text_0014"
+    ]
+  }
+}

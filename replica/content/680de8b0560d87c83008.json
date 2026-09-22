@@ -1,0 +1,89 @@
+{
+  "path": "/success-groups-and-workshops-thank-you-page",
+  "fields": {
+    "text_0001": "\n      \n        Success Groups and Workshops Thank You Page\n      \n    ",
+    "text_0002": "About",
+    "text_0003": "Journals",
+    "text_0004": "Blog",
+    "text_0005": "Coaching",
+    "text_0006": "Groups",
+    "text_0007": "Contact",
+    "text_0008": "Success! You’re on the waitlist for the next Success Through Self-care Group Coaching event. Stay tuned — you will be among the first to hear the new group announcement and receive details.",
+    "text_0009": "If you have any questions, please contact us at ",
+    "text_0010": "admin@coachvalerie.com",
+    "text_0011": "\n  \n    Return to the Homepage \n  \n",
+    "text_0012": "©Copyright 2024 Life Come True LLC",
+    "text_0013": "Privacy Policy",
+    "text_0014": "Terms & Conditions",
+    "text_0015": "Join Our Free Trial",
+    "text_0016": "Get started today before this once in a lifetime opportunity expires.",
+    "link_0017": "/",
+    "text_0018": "Header Logo",
+    "asset_0019": "/replica-assets/bf2f97591650bd787ef5.webp",
+    "link_0020": "/Meet-Valerie",
+    "link_0021": "/journals",
+    "link_0022": "/blog",
+    "link_0023": "/Work-with-Valerie",
+    "link_0024": "/groups-and-workshops",
+    "link_0025": "/get-in-touch",
+    "text_0026": "Open navigation",
+    "link_0027": "mailto:admin@coachvalerie.com",
+    "link_0028": "/",
+    "link_0029": "/",
+    "link_0030": "/privacy-policy",
+    "link_0031": "/terms-conditions",
+    "link_0032": "https://www.instagram.com/lifecoachvalerie/",
+    "link_0033": "https://www.pinterest.ph/valeriemirto/",
+    "link_0034": "https://www.tiktok.com/@lifecoachvalerie",
+    "link_0035": "https://medium.com/@coachvalerie",
+    "asset_0036": "/replica-assets/fde65c6bf219216d5861.png"
+  },
+  "sections": {
+    "page": [
+      "text_0001"
+    ],
+    "header": [
+      "text_0002",
+      "text_0003",
+      "text_0004",
+      "text_0005",
+      "text_0006",
+      "text_0007",
+      "link_0017",
+      "text_0018",
+      "asset_0019",
+      "link_0020",
+      "link_0021",
+      "link_0022",
+      "link_0023",
+      "link_0024",
+      "link_0025",
+      "text_0026"
+    ],
+    "1712336863813": [
+      "text_0008",
+      "text_0009",
+      "text_0010",
+      "text_0011",
+      "link_0027",
+      "link_0028"
+    ],
+    "footer": [
+      "text_0012",
+      "text_0013",
+      "text_0014",
+      "link_0029",
+      "link_0030",
+      "link_0031",
+      "link_0032",
+      "link_0033",
+      "link_0034",
+      "link_0035"
+    ],
+    "two_step": [
+      "text_0015",
+      "text_0016",
+      "asset_0036"
+    ]
+  }
+}

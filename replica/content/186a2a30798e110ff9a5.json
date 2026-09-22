@@ -1,0 +1,81 @@
+{
+  "path": "/MMomentsJournal2",
+  "fields": {
+    "text_0001": "\n      \n        Journal2\n      \n    ",
+    "text_0002": "Time to order a new journal?",
+    "text_0003": "As a valued ",
+    "text_0004": "journaler,",
+    "text_0005": " you'll get a special gift with your next Coming True Mindful Moments Journal purchase!",
+    "text_0006": "There are just two steps:",
+    "text_0007": "1. Use this link to order your new journal.",
+    "text_0008": "2. After purchase, return to this page and fill out the box below to receive your gift: a copy of ",
+    "text_0009": "Effortless Calm: Eight Ways To Calm Yourself In Chaos.",
+    "text_0010": "\n  \n    Click here to order your new journal.\n  \n",
+    "text_0011": "\n  \n    Once Purchased, Get Your Gift! \n  \n",
+    "text_0012": "©Copyright 2024 Life Come True LLC",
+    "text_0013": "Privacy Policy",
+    "text_0014": "Terms & Conditions",
+    "text_0015": "Join Our Free Trial",
+    "text_0016": "Get started today before this once in a lifetime opportunity expires.",
+    "text_0017": "Journal ordering page for previous Mindful Moments journal customers.",
+    "link_0018": "/",
+    "text_0019": "Header Logo",
+    "asset_0020": "/replica-assets/1cf4b8b0d074f7709bc9.webp",
+    "text_0021": "Open navigation",
+    "asset_0022": "/replica-assets/ca1856999f76c642f848.jpg",
+    "link_0023": "https://www.amazon.com/Coming-True-Mindful-Moments-Journal/dp/B0DFHFNM8X/ref=sr_1_1?crid=182QTHDQGJ1AQ&dib=eyJ2IjoiMSJ9.FRrCPAI5P6orlzvenoAKfPcdNzywzQ4pW29QiDDya48.ODJ4PFZflL2CCHRhpVMMTyBdUYlMsTeUcr16Ptg7E5A&dib_tag=se&keywords=coming+true+mindful+moments+journal&qid=1732496268&sprefix=coming+true+mindful+moments+journal%2Caps%2C188&sr=8-1",
+    "link_0024": "/opt-in",
+    "link_0025": "/",
+    "link_0026": "/privacy-policy",
+    "link_0027": "/terms-conditions",
+    "link_0028": "https://www.instagram.com/lifecoachvalerie/",
+    "link_0029": "https://www.pinterest.ph/valeriemirto/",
+    "link_0030": "https://www.tiktok.com/@lifecoachvalerie",
+    "link_0031": "https://medium.com/@coachvalerie",
+    "asset_0032": "/replica-assets/fde65c6bf219216d5861.png"
+  },
+  "sections": {
+    "page": [
+      "text_0001",
+      "text_0017"
+    ],
+    "presale_v0_0_1__signup": [
+      "text_0002",
+      "text_0003",
+      "text_0004",
+      "text_0005",
+      "text_0006",
+      "text_0007",
+      "text_0008",
+      "text_0009",
+      "text_0010",
+      "text_0011",
+      "asset_0022",
+      "link_0023",
+      "link_0024"
+    ],
+    "footer": [
+      "text_0012",
+      "text_0013",
+      "text_0014",
+      "link_0025",
+      "link_0026",
+      "link_0027",
+      "link_0028",
+      "link_0029",
+      "link_0030",
+      "link_0031"
+    ],
+    "two_step": [
+      "text_0015",
+      "text_0016",
+      "asset_0032"
+    ],
+    "header": [
+      "link_0018",
+      "text_0019",
+      "asset_0020",
+      "text_0021"
+    ]
+  }
+}

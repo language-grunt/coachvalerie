@@ -1,0 +1,77 @@
+{
+  "path": "/success-through-self-care",
+  "fields": {
+    "background_0001": "/replica-assets/06d9c766e87f34d82115.png",
+    "text_0002": "\n      \n        Success through Self-Care\n      \n    ",
+    "text_0003": "Success Through Self-care™",
+    "text_0004": " is a life-changing, 6-week group coaching experience that supports you in achieving the success you want without trading what matters most. ",
+    "text_0005": "“When we prioritize savvy self-care, we can stay focused on achieving our dreams instead of battling burnout.”",
+    "text_0006": "Sign up to receive an announcement for the next Success Through Self-care™ group.",
+    "text_0007": "©Copyright 2024 Life Come True LLC",
+    "text_0008": "Privacy Policy",
+    "text_0009": "Terms & Conditions",
+    "text_0010": "You're almost there - enter your email address below...",
+    "text_0011": "Enter the information below to get your complimentary Stress Elimination Plan!",
+    "text_0012": "\n          SIGN UP FOR FREE\n        ",
+    "text_0013": "Preview only — this form does not send or save your information.",
+    "text_0014": "We never share information and you can unsubscribe at any time.",
+    "link_0015": "/",
+    "text_0016": "Header Logo",
+    "asset_0017": "/replica-assets/1cf4b8b0d074f7709bc9.webp",
+    "text_0018": "Open navigation",
+    "link_0019": "/",
+    "link_0020": "/privacy-policy",
+    "link_0021": "/terms-conditions",
+    "link_0022": "https://www.instagram.com/lifecoachvalerie/",
+    "link_0023": "https://www.pinterest.ph/valeriemirto/",
+    "link_0024": "https://www.tiktok.com/@lifecoachvalerie",
+    "link_0025": "https://medium.com/@coachvalerie",
+    "asset_0026": "/replica-assets/ff0fd81320dcf87e2415.webp",
+    "text_0027": "Skip this field",
+    "text_0028": "Name",
+    "text_0029": "Email Address"
+  },
+  "sections": {
+    "page": [
+      "background_0001",
+      "text_0002"
+    ],
+    "1709320730568": [
+      "text_0003",
+      "text_0004",
+      "text_0005"
+    ],
+    "1709320730569": [
+      "text_0006"
+    ],
+    "footer": [
+      "text_0007",
+      "text_0008",
+      "text_0009",
+      "link_0019",
+      "link_0020",
+      "link_0021",
+      "link_0022",
+      "link_0023",
+      "link_0024",
+      "link_0025"
+    ],
+    "two_step": [
+      "text_0010",
+      "text_0011",
+      "text_0012",
+      "text_0013",
+      "text_0014",
+      "asset_0026",
+      "text_0027",
+      "text_0028",
+      "text_0029"
+    ],
+    "header": [
+      "link_0015",
+      "text_0016",
+      "asset_0017",
+      "text_0018"
+    ]
+  }
+}

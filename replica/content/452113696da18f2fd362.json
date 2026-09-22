@@ -1,0 +1,51 @@
+{
+  "path": "/The-art-of-boundary-setting-pdf-file",
+  "fields": {
+    "text_0001": "\n      \n        Download the File\n      \n    ",
+    "text_0002": "Click above to download the guide.",
+    "text_0003": "\n  Return to the Home Page\n",
+    "text_0004": "\n  © 2026 Life Come True LLC  | Privacy Policy   |    Terms & Conditions\n",
+    "text_0005": "Join Our Free Trial",
+    "text_0006": "Get started today before this once in a lifetime opportunity expires.",
+    "link_0007": "/",
+    "text_0008": "Header Logo",
+    "asset_0009": "/replica-assets/535350f72f3e49bd153c.png",
+    "text_0010": "Open navigation",
+    "link_0011": "/resource_redirect/downloads/file-uploads/sites/2147490257/themes/2156437698/downloads/cb284b-b3c6-fdfe-716b-070ca13cdaa_Edited-_The_Art_of_Boundary_Setting_1_.pdf",
+    "asset_0012": "/replica-assets/ac26587246e515b178e0.png",
+    "link_0013": "/",
+    "link_0014": "https://www.facebook.com/kajabi",
+    "link_0015": "https://www.twitter.com/kajabi",
+    "link_0016": "https://www.instagram.com/kajabi",
+    "asset_0017": "/replica-assets/fde65c6bf219216d5861.png"
+  },
+  "sections": {
+    "page": [
+      "text_0001"
+    ],
+    "1702666533790": [
+      "text_0002",
+      "text_0003",
+      "link_0011",
+      "asset_0012",
+      "link_0013"
+    ],
+    "footer": [
+      "text_0004",
+      "link_0014",
+      "link_0015",
+      "link_0016"
+    ],
+    "two_step": [
+      "text_0005",
+      "text_0006",
+      "asset_0017"
+    ],
+    "header": [
+      "link_0007",
+      "text_0008",
+      "asset_0009",
+      "text_0010"
+    ]
+  }
+}

@@ -13,7 +13,12 @@ class ReplicaController < ActionController::API
     if (target = MANIFEST.fetch("aliases")[path])
       redirect_to target, status: :found, allow_other_host: false
     elsif (file = MANIFEST.fetch("pages")[path])
-      render body: ROOT.join(file).read, content_type: "text/html; charset=utf-8"
+      page = ReferencePage.find_by!(path: path)
+      template = ROOT.join("templates", file).read
+      html = template.gsub(/\{\{content:([a-z]+_\d+)\}\}/) do
+        ERB::Util.html_escape(page.fields.fetch(Regexp.last_match(1)))
+      end
+      render body: html, content_type: "text/html; charset=utf-8"
     else
       render html: '<!doctype html><html lang="en"><title>Page not in preview</title><h1>This page is not in the preview yet.</h1><p><a href="/">Return to Coach Valerie</a></p></html>'.html_safe, status: :not_found
     end

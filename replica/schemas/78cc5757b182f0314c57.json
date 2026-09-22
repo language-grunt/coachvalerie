@@ -1,0 +1,107 @@
+{
+  "text_0001": {
+    "kind": "text",
+    "section": "page",
+    "element": "title"
+  },
+  "text_0002": {
+    "kind": "text",
+    "section": "1712337616696",
+    "element": "span"
+  },
+  "text_0003": {
+    "kind": "text",
+    "section": "1712337616696",
+    "element": "a"
+  },
+  "text_0004": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0005": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0006": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0007": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "h4"
+  },
+  "text_0008": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "p"
+  },
+  "link_0009": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0010": {
+    "kind": "text",
+    "section": "header",
+    "element": "img"
+  },
+  "asset_0011": {
+    "kind": "asset",
+    "section": "header",
+    "element": "img"
+  },
+  "text_0012": {
+    "kind": "text",
+    "section": "header",
+    "element": "div"
+  },
+  "link_0013": {
+    "kind": "link",
+    "section": "1712337616696",
+    "element": "a"
+  },
+  "link_0014": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0015": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0016": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0017": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0018": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0019": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0020": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "asset_0021": {
+    "kind": "asset",
+    "section": "two_step",
+    "element": "img"
+  }
+}

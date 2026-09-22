@@ -1,0 +1,105 @@
+{
+  "path": "/store",
+  "fields": {
+    "background_0001": "/replica-assets/06d9c766e87f34d82115.png",
+    "background_0002": "/replica-assets/701751091927260d8148.jpg",
+    "text_0003": "\n      \n        Coach Valerie\n      \n    ",
+    "text_0004": "About",
+    "text_0005": "Journals",
+    "text_0006": "Blog",
+    "text_0007": "Coaching",
+    "text_0008": "Groups",
+    "text_0009": "Contact",
+    "text_0010": "Our Services",
+    "text_0011": "Mini Meditations",
+    "text_0012": "Available Services",
+    "text_0013": "©Copyright 2024 Life Come True LLC",
+    "text_0014": "Privacy Policy",
+    "text_0015": "Terms & Conditions",
+    "text_0016": "You're almost there - enter your email address below...",
+    "text_0017": "Enter the information below to get your complimentary Stress Elimination Plan!",
+    "text_0018": "\n          SIGN UP FOR FREE\n        ",
+    "text_0019": "Preview only — this form does not send or save your information.",
+    "text_0020": "We never share information and you can unsubscribe at any time.",
+    "text_0021": "Life-changing self-care and success tools for women in business from twenty-year life coach Valerie Mirto. Live your best life — the life you have imagined. Leverage the power of authenticity and mindfulness so you can thrive, personally and professionally.",
+    "link_0022": "/",
+    "text_0023": "Header Logo",
+    "asset_0024": "/replica-assets/1cf4b8b0d074f7709bc9.webp",
+    "link_0025": "/Meet-Valerie",
+    "link_0026": "/journals",
+    "link_0027": "/blog",
+    "link_0028": "/Work-with-Valerie",
+    "link_0029": "/groups-and-workshops",
+    "link_0030": "/get-in-touch",
+    "text_0031": "Open navigation",
+    "link_0032": "/",
+    "link_0033": "/privacy-policy",
+    "link_0034": "/terms-conditions",
+    "link_0035": "https://www.instagram.com/lifecoachvalerie/",
+    "link_0036": "https://www.pinterest.ph/valeriemirto/",
+    "link_0037": "https://www.tiktok.com/@lifecoachvalerie",
+    "link_0038": "https://medium.com/@coachvalerie",
+    "asset_0039": "/replica-assets/ff0fd81320dcf87e2415.webp",
+    "text_0040": "Skip this field",
+    "text_0041": "Name",
+    "text_0042": "Email Address"
+  },
+  "sections": {
+    "page": [
+      "background_0001",
+      "background_0002",
+      "text_0003",
+      "text_0021"
+    ],
+    "header": [
+      "text_0004",
+      "text_0005",
+      "text_0006",
+      "text_0007",
+      "text_0008",
+      "text_0009",
+      "link_0022",
+      "text_0023",
+      "asset_0024",
+      "link_0025",
+      "link_0026",
+      "link_0027",
+      "link_0028",
+      "link_0029",
+      "link_0030",
+      "text_0031"
+    ],
+    "1593046296756": [
+      "text_0010"
+    ],
+    "1593046178513": [
+      "text_0011"
+    ],
+    "1593046189841": [
+      "text_0012"
+    ],
+    "footer": [
+      "text_0013",
+      "text_0014",
+      "text_0015",
+      "link_0032",
+      "link_0033",
+      "link_0034",
+      "link_0035",
+      "link_0036",
+      "link_0037",
+      "link_0038"
+    ],
+    "two_step": [
+      "text_0016",
+      "text_0017",
+      "text_0018",
+      "text_0019",
+      "text_0020",
+      "asset_0039",
+      "text_0040",
+      "text_0041",
+      "text_0042"
+    ]
+  }
+}

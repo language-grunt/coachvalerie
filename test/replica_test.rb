@@ -66,4 +66,25 @@ class ReplicaTest < ActionDispatch::IntegrationTest
     assert_includes response.body, '/Meet-Valerie'
     assert_includes response.body, '/journals'
   end
+  test "content edits render without template or stylesheet changes" do
+    page = ReferencePage.find_by!(path: "/")
+    key = page.fields.find { |_key, value| value.include?("Coming True") }.first
+    template = Rails.root.join("replica/templates", ReplicaController::MANIFEST.fetch("pages").fetch("/"))
+    before = template.read
+    page.update!(fields: page.fields.merge(key => "Independent content <script>alert(1)</script>"))
+    get "/", headers: headers
+    assert_includes response.body, "Independent content &lt;script&gt;alert(1)&lt;/script&gt;"
+    assert_equal before, template.read
+  end
+
+  test "content cannot add fields or replace media with executable values" do
+    page = ReferencePage.find_by!(path: "/")
+    page.fields = page.fields.merge("unknown_field" => "value")
+    refute page.valid?
+    page.reload
+    key = page.fields.keys.find { |field| field.start_with?("background_") }
+    page.fields = page.fields.merge(key => 'x");body{display:none}')
+    refute page.valid?
+  end
+
 end
