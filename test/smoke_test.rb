@@ -17,6 +17,8 @@ class SmokeTest < ActionDispatch::IntegrationTest
 
   test "root really reads the database" do
     ActiveRecord::Base.connection.execute("UPDATE greetings SET message = 'changed' WHERE id = 1")
-    assert_raises(RuntimeError) { get "/" }
+    get "/"
+    assert_response :internal_server_error
   end
 end
+
