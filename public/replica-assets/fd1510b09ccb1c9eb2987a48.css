@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'Fira Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url("/replica-assets/954f011785a5e00460071acd.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Fira Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url("/replica-assets/b8e73d4565eb8bb00a48648c.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url("/replica-assets/0a8f8cd53f60f332daff232c.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url("/replica-assets/e2900089deca6e7bedcdf1d0.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url("/replica-assets/669f941654e04a23be810e89.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+  src: url("/replica-assets/a624ce6774cfe835f241a4e5.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url("/replica-assets/650dac2664ae60a7d48bdd17.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  src: url("/replica-assets/22d43f06832a07ed16aa836d.ttf") format('truetype');
+}

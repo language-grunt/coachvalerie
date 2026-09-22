@@ -1,0 +1,197 @@
+{
+  "text_0001": {
+    "kind": "text",
+    "section": "page",
+    "element": "title"
+  },
+  "text_0002": {
+    "kind": "text",
+    "section": "presale_v0_0_1__signup",
+    "element": "span"
+  },
+  "text_0003": {
+    "kind": "text",
+    "section": "presale_v0_0_1__signup",
+    "element": "p"
+  },
+  "text_0004": {
+    "kind": "text",
+    "section": "presale_v0_0_1__signup",
+    "element": "em"
+  },
+  "text_0005": {
+    "kind": "text",
+    "section": "presale_v0_0_1__signup",
+    "element": "p"
+  },
+  "text_0006": {
+    "kind": "text",
+    "section": "presale_v0_0_1__signup",
+    "element": "p"
+  },
+  "text_0007": {
+    "kind": "text",
+    "section": "presale_v0_0_1__signup",
+    "element": "p"
+  },
+  "text_0008": {
+    "kind": "text",
+    "section": "presale_v0_0_1__signup",
+    "element": "p"
+  },
+  "text_0009": {
+    "kind": "text",
+    "section": "presale_v0_0_1__signup",
+    "element": "em"
+  },
+  "text_0010": {
+    "kind": "text",
+    "section": "presale_v0_0_1__signup",
+    "element": "a"
+  },
+  "text_0011": {
+    "kind": "text",
+    "section": "presale_v0_0_1__signup",
+    "element": "a"
+  },
+  "text_0012": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0013": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0014": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0015": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "h4"
+  },
+  "text_0016": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "p"
+  },
+  "text_0017": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "link_0018": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0019": {
+    "kind": "text",
+    "section": "header",
+    "element": "img"
+  },
+  "asset_0020": {
+    "kind": "asset",
+    "section": "header",
+    "element": "img"
+  },
+  "text_0021": {
+    "kind": "text",
+    "section": "header",
+    "element": "div"
+  },
+  "asset_0022": {
+    "kind": "asset",
+    "section": "presale_v0_0_1__signup",
+    "element": "img"
+  },
+  "link_0023": {
+    "kind": "link",
+    "section": "presale_v0_0_1__signup",
+    "element": "a"
+  },
+  "link_0024": {
+    "kind": "link",
+    "section": "presale_v0_0_1__signup",
+    "element": "a"
+  },
+  "link_0025": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0026": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0027": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0028": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0029": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0030": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0031": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "asset_0032": {
+    "kind": "asset",
+    "section": "two_step",
+    "element": "img"
+  },
+  "text_0033": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0034": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0035": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0036": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0037": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0038": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0039": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  }
+}

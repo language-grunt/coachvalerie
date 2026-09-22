@@ -1,0 +1,40 @@
+services:
+  - type: web
+    name: coachvalerie-staging
+    runtime: ruby
+    plan: 0.5c-512mb
+    region: ohio
+    branch: staging-smoke
+    buildCommand: bundle install
+    preDeployCommand: bundle exec ruby bin/rails db:migrate
+    startCommand: bundle exec rackup --server webrick --host 0.0.0.0 --port $PORT
+    healthCheckPath: /up
+    autoDeployTrigger: commit
+    envVars:
+      - key: RAILS_ENV
+        value: production
+      - key: STAGING_ACCESS_ENABLED
+        value: "true"
+      - key: STAGING_ACCESS_USERNAME
+        value: valerie
+      - key: STAGING_ACCESS_PASSWORD
+        generateValue: true
+      - key: SECRET_KEY_BASE
+        generateValue: true
+      - key: DATABASE_URL
+        fromDatabase:
+          name: coachvalerie-staging-db
+          property: connectionString
+      - key: BUNDLE_WITHOUT
+        value: test
+      - key: BUNDLE_FROZEN
+        value: "true"
+databases:
+  - name: coachvalerie-staging-db
+    databaseName: coachvalerie_staging
+    plan: 0.1c-256mb
+    region: ohio
+    postgresMajorVersion: "18"
+    diskSizeGB: 1
+    storageAutoscalingEnabled: false
+    ipAllowList: []

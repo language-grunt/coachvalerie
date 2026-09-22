@@ -1,0 +1,112 @@
+{
+  "text_0001": {
+    "kind": "text",
+    "section": "page",
+    "element": "title"
+  },
+  "text_0002": {
+    "kind": "text",
+    "section": "1702666533790",
+    "element": "p"
+  },
+  "text_0003": {
+    "kind": "text",
+    "section": "1702666533790",
+    "element": "a"
+  },
+  "text_0004": {
+    "kind": "text",
+    "section": "footer",
+    "element": "span"
+  },
+  "text_0005": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "h4"
+  },
+  "text_0006": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "p"
+  },
+  "link_0007": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0008": {
+    "kind": "text",
+    "section": "header",
+    "element": "img"
+  },
+  "asset_0009": {
+    "kind": "asset",
+    "section": "header",
+    "element": "img"
+  },
+  "text_0010": {
+    "kind": "text",
+    "section": "header",
+    "element": "div"
+  },
+  "link_0011": {
+    "kind": "link",
+    "section": "1702666533790",
+    "element": "a"
+  },
+  "asset_0012": {
+    "kind": "asset",
+    "section": "1702666533790",
+    "element": "img"
+  },
+  "link_0013": {
+    "kind": "link",
+    "section": "1702666533790",
+    "element": "a"
+  },
+  "link_0014": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0015": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0016": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "asset_0017": {
+    "kind": "asset",
+    "section": "two_step",
+    "element": "img"
+  },
+  "text_0018": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0019": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0020": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0021": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0022": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  }
+}

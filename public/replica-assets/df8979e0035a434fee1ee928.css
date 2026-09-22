@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url("/replica-assets/14fa613aef32d8da65024382.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 700;
+  src: url("/replica-assets/1316eeae9a47065d77792d10.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 400;
+  src: url("/replica-assets/bc0d8aa5a966e752526bd9d2.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 700;
+  src: url("/replica-assets/2415b88c98a5a89809b89683.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url("/replica-assets/f9f931d4cae3168c60c78f0d.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url("/replica-assets/b2dd8af98829026aabcba3e5.ttf") format('truetype');
+}

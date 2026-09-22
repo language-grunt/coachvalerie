@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/replica-assets/2ef083aa77740c1d492309d7.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/replica-assets/b976f4417a3eb7d513d6dfed.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/replica-assets/aa1407744725aea146972919.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/replica-assets/750636acddb6c1724ba76e6f.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/replica-assets/bc0d8aa5a966e752526bd9d2.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/replica-assets/2415b88c98a5a89809b89683.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/replica-assets/f9f931d4cae3168c60c78f0d.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/replica-assets/b2dd8af98829026aabcba3e5.ttf") format('truetype');
+}

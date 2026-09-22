@@ -1,0 +1,11 @@
+/* Retain source styling without requiring its tracking/theme JavaScript. */
+[data-aos] { opacity: 1 !important; transform: none !important; transition: none !important; }
+.replica-form-note { font: 13px/1.5 Arial,sans-serif; padding: 10px 12px; margin: 12px 0; background: #fff; color: #344950; border: 1px solid #d9ccba; border-radius: 3px; }
+.modal { display: none !important; }
+.modal.replica-modal-open { display: flex !important; align-items: center; justify-content: center; position: fixed; inset: 0; z-index: 10000; overflow-y: auto; background: rgba(0,0,0,.55); }
+.modal__content { max-height: 90vh; overflow-y: auto; }
+.close-x, .hamburger { cursor: pointer; }
+@media(max-width:767px) {
+ .replica-menu-open .header__content--mobile { display: block !important; }
+ .header__content--mobile > a { display: block; padding: 12px 24px; color: inherit; }
+}

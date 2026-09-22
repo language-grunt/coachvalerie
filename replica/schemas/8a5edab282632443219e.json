@@ -1,0 +1,517 @@
+{
+  "background_0001": {
+    "kind": "background",
+    "section": "page",
+    "element": null
+  },
+  "background_0002": {
+    "kind": "background",
+    "section": "page",
+    "element": null
+  },
+  "background_0003": {
+    "kind": "background",
+    "section": "page",
+    "element": null
+  },
+  "text_0004": {
+    "kind": "text",
+    "section": "page",
+    "element": "title"
+  },
+  "text_0005": {
+    "kind": "text",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0006": {
+    "kind": "text",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0007": {
+    "kind": "text",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0008": {
+    "kind": "text",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0009": {
+    "kind": "text",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0010": {
+    "kind": "text",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0011": {
+    "kind": "text",
+    "section": "1697579565048",
+    "element": "span"
+  },
+  "text_0012": {
+    "kind": "text",
+    "section": "1697579565048",
+    "element": "a"
+  },
+  "text_0013": {
+    "kind": "text",
+    "section": "1700518483841",
+    "element": "em"
+  },
+  "text_0014": {
+    "kind": "text",
+    "section": "1700518483841",
+    "element": "span"
+  },
+  "text_0015": {
+    "kind": "text",
+    "section": "1700518483841",
+    "element": "strong"
+  },
+  "text_0016": {
+    "kind": "text",
+    "section": "1700518483841",
+    "element": "span"
+  },
+  "text_0017": {
+    "kind": "text",
+    "section": "1700518483841",
+    "element": "span"
+  },
+  "text_0018": {
+    "kind": "text",
+    "section": "1700518483841",
+    "element": "em"
+  },
+  "text_0019": {
+    "kind": "text",
+    "section": "1700518483841",
+    "element": "span"
+  },
+  "text_0020": {
+    "kind": "text",
+    "section": "1700518483841",
+    "element": "em"
+  },
+  "text_0021": {
+    "kind": "text",
+    "section": "1700518483841",
+    "element": "span"
+  },
+  "text_0022": {
+    "kind": "text",
+    "section": "1700518483841",
+    "element": "span"
+  },
+  "text_0023": {
+    "kind": "text",
+    "section": "1575400143733",
+    "element": "strong"
+  },
+  "text_0024": {
+    "kind": "text",
+    "section": "1575400143733",
+    "element": "span"
+  },
+  "text_0025": {
+    "kind": "text",
+    "section": "1575400143733",
+    "element": "a"
+  },
+  "text_0026": {
+    "kind": "text",
+    "section": "1575400143733",
+    "element": "a"
+  },
+  "text_0027": {
+    "kind": "text",
+    "section": "1606956558638",
+    "element": "a"
+  },
+  "text_0028": {
+    "kind": "text",
+    "section": "1606956558638",
+    "element": "span"
+  },
+  "text_0029": {
+    "kind": "text",
+    "section": "1606956558638",
+    "element": "span"
+  },
+  "text_0030": {
+    "kind": "text",
+    "section": "1606956558638",
+    "element": "em"
+  },
+  "text_0031": {
+    "kind": "text",
+    "section": "1606947199782",
+    "element": "em"
+  },
+  "text_0032": {
+    "kind": "text",
+    "section": "1606947199782",
+    "element": "p"
+  },
+  "text_0033": {
+    "kind": "text",
+    "section": "1696622566810",
+    "element": "h3"
+  },
+  "text_0034": {
+    "kind": "text",
+    "section": "1696622566810",
+    "element": "span"
+  },
+  "text_0035": {
+    "kind": "text",
+    "section": "1696622566810",
+    "element": "a"
+  },
+  "text_0036": {
+    "kind": "text",
+    "section": "1697216863800",
+    "element": "strong"
+  },
+  "text_0037": {
+    "kind": "text",
+    "section": "1697216863800",
+    "element": "span"
+  },
+  "text_0038": {
+    "kind": "text",
+    "section": "1697216863800",
+    "element": "em"
+  },
+  "text_0039": {
+    "kind": "text",
+    "section": "1697216863800",
+    "element": "button"
+  },
+  "text_0040": {
+    "kind": "text",
+    "section": "1697216863800",
+    "element": "p"
+  },
+  "text_0041": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0042": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0043": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0044": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "b"
+  },
+  "text_0045": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "span"
+  },
+  "text_0046": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "button"
+  },
+  "text_0047": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "p"
+  },
+  "text_0048": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "p"
+  },
+  "text_0049": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "link_0050": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0051": {
+    "kind": "text",
+    "section": "header",
+    "element": "img"
+  },
+  "asset_0052": {
+    "kind": "asset",
+    "section": "header",
+    "element": "img"
+  },
+  "link_0053": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "link_0054": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "link_0055": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "link_0056": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "link_0057": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "link_0058": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0059": {
+    "kind": "text",
+    "section": "header",
+    "element": "div"
+  },
+  "link_0060": {
+    "kind": "link",
+    "section": "1697579565048",
+    "element": "a"
+  },
+  "asset_0061": {
+    "kind": "asset",
+    "section": "1697579565048",
+    "element": "img"
+  },
+  "asset_0062": {
+    "kind": "asset",
+    "section": "1575400154555",
+    "element": "img"
+  },
+  "asset_0063": {
+    "kind": "asset",
+    "section": "1575400154555",
+    "element": "img"
+  },
+  "asset_0064": {
+    "kind": "asset",
+    "section": "1575400154555",
+    "element": "img"
+  },
+  "asset_0065": {
+    "kind": "asset",
+    "section": "1575400143733",
+    "element": "img"
+  },
+  "link_0066": {
+    "kind": "link",
+    "section": "1575400143733",
+    "element": "a"
+  },
+  "asset_0067": {
+    "kind": "asset",
+    "section": "1575400143733",
+    "element": "img"
+  },
+  "link_0068": {
+    "kind": "link",
+    "section": "1575400143733",
+    "element": "a"
+  },
+  "link_0069": {
+    "kind": "link",
+    "section": "1575400143733",
+    "element": "a"
+  },
+  "link_0070": {
+    "kind": "link",
+    "section": "1575400143733",
+    "element": "a"
+  },
+  "asset_0071": {
+    "kind": "asset",
+    "section": "1575400143733",
+    "element": "img"
+  },
+  "link_0072": {
+    "kind": "link",
+    "section": "1575400143733",
+    "element": "a"
+  },
+  "link_0073": {
+    "kind": "link",
+    "section": "1575400143733",
+    "element": "a"
+  },
+  "asset_0074": {
+    "kind": "asset",
+    "section": "1575400143733",
+    "element": "img"
+  },
+  "link_0075": {
+    "kind": "link",
+    "section": "1575400143733",
+    "element": "a"
+  },
+  "link_0076": {
+    "kind": "link",
+    "section": "1606956558638",
+    "element": "a"
+  },
+  "asset_0077": {
+    "kind": "asset",
+    "section": "1606956558638",
+    "element": "img"
+  },
+  "link_0078": {
+    "kind": "link",
+    "section": "1606956558638",
+    "element": "a"
+  },
+  "asset_0079": {
+    "kind": "asset",
+    "section": "1606956558638",
+    "element": "img"
+  },
+  "link_0080": {
+    "kind": "link",
+    "section": "1606956558638",
+    "element": "a"
+  },
+  "asset_0081": {
+    "kind": "asset",
+    "section": "1696622566810",
+    "element": "img"
+  },
+  "link_0082": {
+    "kind": "link",
+    "section": "1696622566810",
+    "element": "a"
+  },
+  "text_0083": {
+    "kind": "text",
+    "section": "1697216863800",
+    "element": "input"
+  },
+  "text_0084": {
+    "kind": "text",
+    "section": "1697216863800",
+    "element": "input"
+  },
+  "text_0085": {
+    "kind": "text",
+    "section": "1697216863800",
+    "element": "input"
+  },
+  "link_0086": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0087": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0088": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0089": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0090": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0091": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0092": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "asset_0093": {
+    "kind": "asset",
+    "section": "two_step",
+    "element": "img"
+  },
+  "text_0094": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "input"
+  },
+  "text_0095": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "input"
+  },
+  "text_0096": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "input"
+  },
+  "text_0097": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0098": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0099": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0100": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0101": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0102": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0103": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  }
+}

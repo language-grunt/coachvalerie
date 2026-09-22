@@ -1,0 +1,352 @@
+{
+  "background_0001": {
+    "kind": "background",
+    "section": "page",
+    "element": null
+  },
+  "text_0002": {
+    "kind": "text",
+    "section": "page",
+    "element": "title"
+  },
+  "text_0003": {
+    "kind": "text",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0004": {
+    "kind": "text",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0005": {
+    "kind": "text",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0006": {
+    "kind": "text",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0007": {
+    "kind": "text",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0008": {
+    "kind": "text",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0009": {
+    "kind": "text",
+    "section": "1703785358717",
+    "element": "b"
+  },
+  "text_0010": {
+    "kind": "text",
+    "section": "1703785358717",
+    "element": "span"
+  },
+  "text_0011": {
+    "kind": "text",
+    "section": "1703785358717",
+    "element": "strong"
+  },
+  "text_0012": {
+    "kind": "text",
+    "section": "1703785358717",
+    "element": "span"
+  },
+  "text_0013": {
+    "kind": "text",
+    "section": "1703785358717",
+    "element": "strong"
+  },
+  "text_0014": {
+    "kind": "text",
+    "section": "1703785358717",
+    "element": "span"
+  },
+  "text_0015": {
+    "kind": "text",
+    "section": "1703785358717",
+    "element": "strong"
+  },
+  "text_0016": {
+    "kind": "text",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "text_0017": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0018": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0019": {
+    "kind": "text",
+    "section": "footer",
+    "element": "a"
+  },
+  "text_0020": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "b"
+  },
+  "text_0021": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "span"
+  },
+  "text_0022": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "button"
+  },
+  "text_0023": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "p"
+  },
+  "text_0024": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "p"
+  },
+  "text_0025": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "link_0026": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0027": {
+    "kind": "text",
+    "section": "header",
+    "element": "img"
+  },
+  "asset_0028": {
+    "kind": "asset",
+    "section": "header",
+    "element": "img"
+  },
+  "link_0029": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "link_0030": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "link_0031": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "link_0032": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "link_0033": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "link_0034": {
+    "kind": "link",
+    "section": "header",
+    "element": "a"
+  },
+  "text_0035": {
+    "kind": "text",
+    "section": "header",
+    "element": "div"
+  },
+  "asset_0036": {
+    "kind": "asset",
+    "section": "1607887261302",
+    "element": "img"
+  },
+  "link_0037": {
+    "kind": "link",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "asset_0038": {
+    "kind": "asset",
+    "section": "1703785358717",
+    "element": "img"
+  },
+  "link_0039": {
+    "kind": "link",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "link_0040": {
+    "kind": "link",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "link_0041": {
+    "kind": "link",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "asset_0042": {
+    "kind": "asset",
+    "section": "1703785358717",
+    "element": "img"
+  },
+  "link_0043": {
+    "kind": "link",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "link_0044": {
+    "kind": "link",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "link_0045": {
+    "kind": "link",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "asset_0046": {
+    "kind": "asset",
+    "section": "1703785358717",
+    "element": "img"
+  },
+  "link_0047": {
+    "kind": "link",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "link_0048": {
+    "kind": "link",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "link_0049": {
+    "kind": "link",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "asset_0050": {
+    "kind": "asset",
+    "section": "1703785358717",
+    "element": "img"
+  },
+  "link_0051": {
+    "kind": "link",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "link_0052": {
+    "kind": "link",
+    "section": "1703785358717",
+    "element": "a"
+  },
+  "link_0053": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0054": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0055": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0056": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0057": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0058": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "link_0059": {
+    "kind": "link",
+    "section": "footer",
+    "element": "a"
+  },
+  "asset_0060": {
+    "kind": "asset",
+    "section": "two_step",
+    "element": "img"
+  },
+  "text_0061": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "input"
+  },
+  "text_0062": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "input"
+  },
+  "text_0063": {
+    "kind": "text",
+    "section": "two_step",
+    "element": "input"
+  },
+  "text_0064": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0065": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0066": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0067": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0068": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0069": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  },
+  "text_0070": {
+    "kind": "text",
+    "section": "page",
+    "element": "meta"
+  }
+}
