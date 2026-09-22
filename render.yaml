@@ -13,6 +13,12 @@ services:
     envVars:
       - key: RAILS_ENV
         value: production
+      - key: STAGING_ACCESS_ENABLED
+        value: "true"
+      - key: STAGING_ACCESS_USERNAME
+        value: valerie
+      - key: STAGING_ACCESS_PASSWORD
+        generateValue: true
       - key: SECRET_KEY_BASE
         generateValue: true
       - key: DATABASE_URL

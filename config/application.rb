@@ -2,6 +2,7 @@ require_relative "boot"
 require "rails"
 require "action_controller/railtie"
 require "active_record/railtie"
+require_relative "../lib/staging_access"
 
 Bundler.require(*Rails.groups)
 
@@ -13,6 +14,14 @@ module CoachValerie
     config.secret_key_base = ENV.fetch("SECRET_KEY_BASE") { Rails.env.production? ? nil : "local-test-only-" * 8 }
     config.logger = ActiveSupport::Logger.new($stdout)
     config.log_level = :info
+
+    access_enabled = ENV.fetch("STAGING_ACCESS_ENABLED", Rails.env.production? ? "true" : "false")
+    raise "STAGING_ACCESS_ENABLED must be true or false" unless %w[true false].include?(access_enabled)
+    # SSL handling runs first; the gate precedes static files, routing and controllers.
+    config.middleware.insert_before Rack::Sendfile, StagingAccess,
+      enabled: access_enabled == "true",
+      username: ENV["STAGING_ACCESS_USERNAME"],
+      password: ENV["STAGING_ACCESS_PASSWORD"]
 
     if Rails.env.production?
       config.assume_ssl = true
